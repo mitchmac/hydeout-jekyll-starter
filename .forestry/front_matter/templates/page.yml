@@ -33,3 +33,4 @@ fields:
     min: '1'
 pages:
 - about.md
+- hello.md
