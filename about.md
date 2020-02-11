@@ -4,7 +4,6 @@ title: About
 sidebar_link: true
 date: 
 sidebar_sort_order: 
-published: false
 
 ---
 <p class="message">
