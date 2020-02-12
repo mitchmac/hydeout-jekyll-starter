@@ -4,7 +4,6 @@ title: About
 sidebar_link: true
 date: 
 sidebar_sort_order: 
-published: false
 
 ---
 ...I teach busy mothers how to live simplify and transform their days from chaos to calm.
