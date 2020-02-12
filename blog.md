@@ -4,6 +4,5 @@ sidebar_link: true
 title: Blog
 date: 
 sidebar_sort_order: 
-published: false
 
 ---
