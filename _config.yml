@@ -29,5 +29,5 @@ google_analytics: ''
 disqus:
   shortname: ''
 theme: jekyll-theme-hydeout
-markdown: ''
-highlighter: ''
+markdown: kramdown
+highlighter: rouge
