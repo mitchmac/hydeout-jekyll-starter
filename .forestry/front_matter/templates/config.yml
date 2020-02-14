@@ -38,8 +38,8 @@ fields:
   label: Description
   type: text
   hidden: false
-  default: The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for
-    <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.
+  default: each busy women how to live simplify and transform their days from chaos
+    to calm
   description: Enter a description here.
   config:
     required: false
@@ -67,7 +67,7 @@ fields:
     label: Name
     type: text
     hidden: false
-    default: Andrew Fong
+    default: Kelly Briggs
     description: Enter the name of the author of the blog.
     config:
       required: false
