@@ -6,8 +6,8 @@ description: Teaching busy mothers how to live simplify and transform their days
 url: https://flamboyant-mccarthy-691f26.netlify.com/
 baseurl: ''
 author:
-  name: Andrew Fong
-  url: https://twitter.com/fongandrewc
+  name: Kelly Briggs
+  url: ''
 paginate: 5
 exclude:
 - README.md
