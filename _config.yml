@@ -19,7 +19,7 @@ plugins:
 - jekyll-menus
 sidebar_home_link: true
 theme_colors:
-  sidebar-bg-color: "#000000"
+  sidebar-bg-color: "#2C1C0D"
   sidebar-fg-color: "#FFFFFF"
   link-color: "#000000"
 sidebar-sticky: true
