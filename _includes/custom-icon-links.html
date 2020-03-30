@@ -1,1 +1,22 @@
 <!-- Optional additional links to insert for icons links -->
+{% if site.instagram != '' %}
+<a id="instagram-link"
+    class="icon" title="East Coast Kelly on Instagram" aria-label="East Coast Kelly on Instagram"
+    href="{{ site.instagram }}">
+    {% include svg/instagram.svg %}
+</a>
+{% endif %}
+{% if site.facebook != '' %}
+<a id="facebook-link"
+    class="icon" title="East Coast Kelly on Facebook" aria-label="East Coast Kelly on Facebook"
+    href="{{ site.facebook }}">
+    {% include svg/facebook.svg %}
+</a>
+{% endif %}
+{% if site.twitter != '' %}
+<a id="twitter-link"
+    class="icon" title="East Coast Kelly on Twitter" aria-label="East Coast Kelly on Twitter"
+    href="{{ site.twitter }}">
+    {% include svg/twitter.svg %}
+</a>
+{% endif %}

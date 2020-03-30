@@ -1,7 +1,6 @@
 # Hyde / Hydeout
 
-Hydeout updates the original [Hyde](https://github.com/poole/hyde)
-theme for [Jekyll](http://jekyllrb.com) 3.x and adds new functionality.
+To make changes to these theme, shadow files from [Hydeout](https://github.com/fongandrew/hydeout/).
 
 ![Desktop](https://github.com/fongandrew/hydeout/blob/master/_screenshots/1.png?raw=true)
 <img alt="Mobile home page" src="https://github.com/fongandrew/hydeout/blob/master/_screenshots/2.png?raw=true" width="300px" />
