@@ -19,7 +19,7 @@ plugins:
 - jekyll-menus
 sidebar_home_link: true
 theme_colors:
-  sidebar-bg-color: "#2C1C0D"
+  sidebar-bg-color: "#1C1408"
   sidebar-fg-color: "#FFFFFF"
   link-color: "#000000"
 sidebar-sticky: true
@@ -31,6 +31,6 @@ disqus:
 theme: jekyll-theme-hydeout
 markdown: kramdown
 highlighter: rouge
-facebook: 'https://www.facebook.com/kelly.briggs'
+facebook: https://www.facebook.com/kelly.briggs
 twitter: ''
-instagram: 'https://www.instagram.com/eastcoastkelly/'
+instagram: https://www.instagram.com/eastcoastkelly/
