@@ -21,3 +21,5 @@ fields:
   description: Add category title here
   config:
     required: false
+pages:
+- category/time-management.md
