@@ -6,7 +6,7 @@ date:
 sidebar_sort_order: 
 
 ---
-...I teach busy mothers how to live simplify and transform their days from chaos to calm.
+...I teach busy mothers how to prioritize the (daily) to do list & reduce the overwhelm by using simple living tips.. so that they have more time for what matters most.
 
 If you are a beyond busy mother and if you are looking to simplify your life, to strip down to what matters most to you, then you've come to the right place. I teach you how to 𝚕𝚒𝚟e 𝚜𝚒𝚖𝚙𝚕𝚢 through tips, strategies, and ideas. Finding more time for YOU and what you want in life - that you can implement TODAY.
 
