@@ -3,7 +3,7 @@ layout: post
 title: Four Ways to Be Realistic with Your To Do List
 excerpt: "⁣⁣⁣⁣Have an unending to do list? Feel like you are never on top of things?
   ⁣⁣⁣⁣⁣Today on the blog I'm going to leave you with some to do list tips.."
-date: 2020-04-04 00:00:00 -0300
+date: 2020-04-04T03:00:00.000+00:00
 last_modified_at: 
 categories:
 - to do lists
@@ -37,8 +37,7 @@ Start right away in the morning when you have the most energy. ⁣⁣⁣⁣⁣I 
 
 Do a brain dump if you feel the need to have a massive to do list and then set aside to reflect and look on in the future. ⁣⁣I use to do lists for a lot of things and keep running lists of them for future reference. But, my daily to do list is written in my [bullet journal planner](www.bulletjournal.com).
 
-![](assets/img/91490657_10163239409575627_903658426133905408_o.jpg)
-
+![](assets/img/91490657_10163239409575627_903658426133905408_o.jpg "My Bullet Journal")
 
 ⁣Helpful? ⁣⁣⁣⁣⁣
 
