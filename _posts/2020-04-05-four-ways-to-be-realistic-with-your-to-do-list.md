@@ -39,6 +39,7 @@ Do a brain dump if you feel the need to have a massive to do list and then set a
 
 ![](assets/img/91490657_10163239409575627_903658426133905408_o.jpg)
 
+
 ⁣Helpful? ⁣⁣⁣⁣⁣
 
 If you liked these tips and love your to do lists or want to get better at them, learning the simple bullet journal method may be for you too! I have some great links to get you started with using this method if that sounds like something that would be helpful. Feel free to send me an email at eastcoastkellyb@gmail.com for those links. Cheers!
