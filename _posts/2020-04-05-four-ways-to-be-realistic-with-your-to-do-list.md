@@ -19,7 +19,7 @@ tags:
 comments: false
 
 ---
-You are worth so much more than the size of your crossed off to do list. 📃 But goodness knows those lists can also help in the time of decluttering or other pressing matters.⁣⁣⁣⁣⁣ Have an unending to do list? Feel like you are never on top of things? ⁣⁣⁣⁣⁣Today on the blog I'm going to leave you with some to do list tips I read in a [Forbes article](https://www.forbes.com/sites/bryancollinseurope/2020/02/20/how-to-put-together-a-realistic-to-do-list-every-day/#4476afb519e3) that were simple and practical:⁣
+You are worth so much more than the size of your crossed off to do list. But goodness knows those lists can also help in the time of decluttering or other pressing matters.⁣⁣⁣⁣⁣ Have an unending to do list? Feel like you are never on top of things? ⁣⁣⁣⁣⁣Today on the blog I'm going to leave you with some to do list tips I read in a [Forbes article](https://www.forbes.com/sites/bryancollinseurope/2020/02/20/how-to-put-together-a-realistic-to-do-list-every-day/#4476afb519e3) that were simple and practical:⁣
 
 ### **Keep things simple**
 
