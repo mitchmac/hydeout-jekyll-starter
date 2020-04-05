@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Four Ways to Be Realistic with Your To Do List
-excerpt: ''
+excerpt: "⁣⁣⁣⁣Have an unending to do list? Feel like you are never on top of things?
+  ⁣⁣⁣⁣⁣Today on the blog I'm going to leave you with some to do list tips.."
 date: 2020-04-04 00:00:00 -0300
 last_modified_at: 
 categories:
