@@ -27,7 +27,7 @@ excerpt: "You are worth so much more than the size of your crossed off to do lis
   at eastcoastkellyb@gmail.com for those links.  \nCheers!  \n  \nKelly Briggs  \nEmail:
   [eastcoastkellyb@gmail.com](mailto:eastcoastkellyb@gmail.com)  \nInstagram: [www.instagram.com/eastcoastkelly](http://www.instagram.com/eastcoastkelly)
   \ \nFacebook: [www.facebook.com/kelly.briggs](http://www.facebook.com/kelly.briggs)"
-date: 
+date: 2020-04-04 00:00:00 -0300
 last_modified_at: 
 categories:
 - to do lists
