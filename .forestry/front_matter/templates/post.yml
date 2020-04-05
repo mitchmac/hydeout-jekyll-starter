@@ -44,3 +44,5 @@ fields:
   label: Comments
   description: Active if you want to allow comments (this option is only available
     if you've set Disqus up in your Site Configuration)
+pages:
+- _posts/four-ways-to-be-realistic-with-your-to-do-list.md
