@@ -37,7 +37,7 @@ Start right away in the morning when you have the most energy. ⁣⁣⁣⁣⁣I 
 
 Do a brain dump if you feel the need to have a massive to do list and then set aside to reflect and look on in the future. ⁣⁣I use to do lists for a lot of things and keep running lists of them for future reference. But, my daily to do list is written in my [bullet journal planner](www.bulletjournal.com).
 
-![](assets/img/91490657_10163239409575627_903658426133905408_o.jpg)
+![](/assets/img/91490657_10163239409575627_903658426133905408_o.jpg)
 
 
 ⁣Helpful? ⁣⁣⁣⁣⁣
