@@ -9,7 +9,8 @@ categories:
 - to do lists
 - bullet journals
 - planning
-tags: []
+tags:
+- to do lists
 comments: false
 
 ---
