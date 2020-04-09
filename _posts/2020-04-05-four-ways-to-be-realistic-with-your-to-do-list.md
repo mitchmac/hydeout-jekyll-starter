@@ -9,6 +9,9 @@ categories:
 - to do lists
 tags:
 - to do lists
+- bullet journaling
+- bullet journal
+- planning
 comments: false
 
 ---
