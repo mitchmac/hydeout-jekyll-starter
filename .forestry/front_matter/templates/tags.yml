@@ -26,3 +26,5 @@ fields:
     (only if Sidebar Link active)
   config:
     min: '1'
+pages:
+- tags.md

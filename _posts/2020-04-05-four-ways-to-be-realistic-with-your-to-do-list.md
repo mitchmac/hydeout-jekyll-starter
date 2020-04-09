@@ -7,15 +7,11 @@ date: 2020-04-04T03:00:00.000+00:00
 last_modified_at: 
 categories:
 - to do lists
-- bullet journals
-- planning
 tags:
-- bullet journal method
-- " bullet journaling"
-- to do list
-- planner addicts
-- bujo
-- bujo method
+- to do lists
+- bullet journaling
+- bullet journal
+- planning
 comments: false
 
 ---
