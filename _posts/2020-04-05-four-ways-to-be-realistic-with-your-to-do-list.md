@@ -9,13 +9,7 @@ categories:
 - to do lists
 - bullet journals
 - planning
-tags:
-- bullet journal method
-- " bullet journaling"
-- to do list
-- planner addicts
-- bujo
-- bujo method
+tags: []
 comments: false
 
 ---
