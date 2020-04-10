@@ -4,10 +4,11 @@ title: The Ultimate Stress Free Planning Method that Anyone Can Use
 excerpt: If you're feeling overwhelmed. If you're juggling all the things. If you
   constantly feel behind. Or if you just want to reduce the daily load, this method
   is for you!
-date: 
+date: 2020-04-10 00:00:00 -0300
 last_modified_at: 
 categories:
 - planning
+- loop planning
 tags:
 - planning
 - loop planning
