@@ -12,7 +12,7 @@ tags:
 - toddler years
 - early parenting
 - parenting hacks
-- suriving parenting
+- surviving parenting
 comments: false
 
 ---
