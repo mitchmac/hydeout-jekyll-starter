@@ -4,7 +4,7 @@ title: How a Priority Pyramid Can Change Your Life
 excerpt: We know what priorities are and what they mean, but how do we really know
   what comes first? Today on the blog I'm going to share with you a visual way to
   structure and organize your priorities using a priority pyramid.
-date: 
+date: 2020-04-14 00:00:00 -0300
 last_modified_at: 
 categories:
 - priorities
