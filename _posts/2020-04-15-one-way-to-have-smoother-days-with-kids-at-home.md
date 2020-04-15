@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One way to have smoother days with kids at home
+title: One Way to Have Smoother Days with Kids at Home
 excerpt: 'Did you know that transitions can possibly make or break your day with kids?
   Transitions are basically those in between times from switching one activity to
   the next. Today on the blog I''m sharing with you how to have smoother days at home
