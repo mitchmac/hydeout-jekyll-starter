@@ -42,9 +42,7 @@ This won't be helpful in our house, but I know many folk who use a song to trans
 
 ## 4. Use a timer or clock
 
-Using a timer as a count down to the next transition can help some kids (and even us adults) prepare for what's coming up. You can also use a timer to set the amount of time used.
-
-⁣Smooth, predictable transitions helps the days go smoother for everyone. Saving time, noise, sanity.
+Using a timer as a count down to the next transition can help some kids (and even us adults) prepare for what's coming up. You can also use a timer to set the amount of time used. ⁣Smooth, predictable transitions helps the days go smoother for everyone. Saving time, noise, sanity.
 
 Did you find this helpful? If so, I would greatly appreciate if you shared it.
 
