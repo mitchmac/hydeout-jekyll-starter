@@ -46,7 +46,7 @@ Using a timer as a count down to the next transition can help some kids (and eve
 
 Did you find this helpful? If so, I would greatly appreciate if you shared it.
 
-PS: if you love this kind of thing, you would love the 10 best tips worksheet to help you design your ultimate day at home with kids. These are strategies that are curated from parents who have lots of experience with kids and of course, parenting.
+PS: if you love this kind of thing, you would love the 10 best tips worksheet to help you design your ultimate day at home with kids. These are strategies that are curated from parents who have lots of experience with kids and of course, parenting. Send me an email at eastcoastkellyb@gmail.com if you'd like that.
 
 Cheers!
 
