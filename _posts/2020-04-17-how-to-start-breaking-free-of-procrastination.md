@@ -6,8 +6,11 @@ excerpt: Knowing where procratination comes from can become way more important t
   sharing about how to start breaking free of procrastination.
 date: 2020-04-17 00:00:00 -0300
 last_modified_at: 
-categories: []
-tags: []
+categories:
+- procrastination
+tags:
+- procrastion
+- beating procrastination
 comments: false
 
 ---
