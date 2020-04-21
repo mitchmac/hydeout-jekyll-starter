@@ -9,8 +9,8 @@ last_modified_at:
 categories:
 - procrastination
 tags:
-- procrastion
 - beating procrastination
+- procrastination
 comments: false
 
 ---
