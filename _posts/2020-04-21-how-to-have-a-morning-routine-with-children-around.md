@@ -8,7 +8,7 @@ excerpt: 'Images of 5am mornings, quiet cups of coffee alone before the kids wak
 date: 2020-04-21 00:00:00 -0300
 last_modified_at: 
 categories:
-- morning routines
+- Morning routine
 tags:
 - miracle morning
 - morning routine
