@@ -40,5 +40,3 @@ Cheers,
 Kelly
 
 Did you find this helpful? If so, I would greatly appreciate if you shared it.
-
-## 
