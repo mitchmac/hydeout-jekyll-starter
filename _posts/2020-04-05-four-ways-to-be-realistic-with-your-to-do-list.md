@@ -6,12 +6,14 @@ excerpt: "⁣⁣⁣⁣Have an unending to do list? Feel like you are never on to
 date: 2020-04-04T03:00:00.000+00:00
 last_modified_at: 
 categories:
-- to do lists
+- Priorities
+- To do list
 tags:
 - to do lists
 - bullet journaling
 - bullet journal
 - planning
+- priorities
 comments: false
 
 ---
