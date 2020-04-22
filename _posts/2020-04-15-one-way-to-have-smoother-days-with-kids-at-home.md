@@ -8,12 +8,14 @@ excerpt: 'Did you know that transitions can possibly make or break your day with
 date: 2020-04-15 00:00:00 -0300
 last_modified_at: 
 categories:
-- transitions
-- schedules
+- At home with kids
 tags:
 - transitions with kids
 - schedules
 - planning
+- timers
+- transition times
+- visual schedules
 comments: false
 
 ---
