@@ -7,13 +7,14 @@ excerpt: Now more than ever, the value of time has become clearer for many of us
 date: 2020-04-16 00:00:00 -0300
 last_modified_at: 
 categories:
-- priorities
-- time budgeting
+- Time management
+- Priorities
 tags:
 - planning
 - priorities
 - schedules
 - time budgeting
+- time management
 comments: false
 
 ---
