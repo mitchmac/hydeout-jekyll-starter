@@ -7,7 +7,6 @@ date: 2020-04-20 00:00:00 -0300
 last_modified_at: 
 categories:
 - exercise
-- exercise routine
 tags:
 - minimal exercise routine
 - simple exercise routine
