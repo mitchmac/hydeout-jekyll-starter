@@ -7,7 +7,7 @@ excerpt: Knowing where procratination comes from can become way more important t
 date: 2020-04-17 00:00:00 -0300
 last_modified_at: 
 categories:
-- procrastination
+- Procrastination
 tags:
 - beating procrastination
 - procrastination
