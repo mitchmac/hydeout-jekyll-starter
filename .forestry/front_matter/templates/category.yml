@@ -22,4 +22,5 @@ fields:
   config:
     required: false
 pages:
+- category/cleaning-tidying.md
 - category/exercise.md
