@@ -8,6 +8,7 @@ last_modified_at:
 categories:
 - Priorities
 - To do list
+- Planning
 tags:
 - to do lists
 - bullet journaling
