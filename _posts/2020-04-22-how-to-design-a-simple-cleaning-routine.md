@@ -8,8 +8,8 @@ excerpt: Having a family means that there is always cleaning and tidying to be d
 date: 2020-04-22 00:00:00 -0300
 last_modified_at: 
 categories:
-- cleaning routine
-- tidying routine
+- Cleaning
+- Tidying
 tags:
 - cleaning routine
 - tidying routine
