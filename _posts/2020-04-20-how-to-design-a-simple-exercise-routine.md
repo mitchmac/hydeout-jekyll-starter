@@ -6,7 +6,7 @@ excerpt: Today on the blog I'm going to share with you how to design a simple ex
 date: 2020-04-20 00:00:00 -0300
 last_modified_at: 
 categories:
-- exercise
+- Exercise
 tags:
 - minimal exercise routine
 - simple exercise routine
