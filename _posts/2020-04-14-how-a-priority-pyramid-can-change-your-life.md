@@ -7,7 +7,7 @@ excerpt: We know what priorities are and what they mean, but how do we really kn
 date: 2020-04-14 00:00:00 -0300
 last_modified_at: 
 categories:
-- priorities
+- Priorities
 tags:
 - priorities
 - priority pyramid
