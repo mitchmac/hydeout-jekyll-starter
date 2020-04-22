@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Cleaning & tidying
-category: Cleaning and tidying
+category: Cleaning & tidying
 published: false
 
 ---
