@@ -7,7 +7,8 @@ excerpt: Today on the blog I'm sharing with you how to look at your days, shifti
 date: 2020-04-13 00:00:00 -0300
 last_modified_at: 
 categories:
-- parenting
+- Parenting
+- At home with kids
 tags:
 - toddler years
 - early parenting
