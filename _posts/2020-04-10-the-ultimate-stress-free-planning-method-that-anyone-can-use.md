@@ -7,11 +7,12 @@ excerpt: If you're feeling overwhelmed. If you're juggling all the things. If yo
 date: 2020-04-10 00:00:00 -0300
 last_modified_at: 
 categories:
-- planning
-- loop planning
+- Planning
 tags:
 - planning
 - loop planning
+- flexible planning
+- stress free planning
 comments: false
 
 ---
