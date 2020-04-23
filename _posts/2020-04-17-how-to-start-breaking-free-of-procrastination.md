@@ -7,10 +7,12 @@ excerpt: Knowing where procratination comes from can become way more important t
 date: 2020-04-17 00:00:00 -0300
 last_modified_at: 
 categories:
-- Procrastination
+- Time management
 tags:
 - beating procrastination
 - procrastination
+- time management
+- the five second rule
 comments: false
 
 ---
