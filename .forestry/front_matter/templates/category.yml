@@ -23,10 +23,18 @@ fields:
     required: false
 pages:
 - category/at-home-with-kids.md
+- category/at-home-with-kids.md
+- category/cleaning-tidying.md
 - category/cleaning-tidying.md
 - category/exercise.md
+- category/exercise.md
+- category/morning-routine.md
 - category/morning-routine.md
 - category/planning.md
+- category/planning.md
+- category/priorities.md
 - category/priorities.md
 - category/time-management.md
+- category/time-management.md
+- category/to-do-list.md
 - category/to-do-list.md
