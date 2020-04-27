@@ -32,7 +32,7 @@ Can't give up screen time as much as you'd like? Using a simple timer can help y
 
 ## 4. Replace your habit of picking up your screen with a new one
 
-Replacing the habit of picking up your phone with a more positive habit, such as picking up a book or calling a friend.
+Replacing the habit of picking up your phone with a different habit, such as picking up a book or calling a friend.
 
 ## 5. Set specific times and routines for using your screens
 
