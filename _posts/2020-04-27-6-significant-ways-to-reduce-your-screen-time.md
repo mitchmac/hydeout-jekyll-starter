@@ -38,7 +38,7 @@ Replacing the habit of picking up your phone with a different habit, such as pic
 
 You could set routines for yourself like: Mornings are only for using it during my morning routine, I put my phone away at 10 every night. I only use my phone for work..and so on.
 
-And if you are majorly struggling in this area, I have a quick article to read that helps you to figure out where and why you are using screen times too much! It's so key to discover WHY so that you can reduce if that's what you'd like to do. Tips are awesome, but without this step, it's going to be much harder to reduce your screen time ... send me an email at [eastcoastkellyb@gmail.com](mailto:eastcoastkellyb@gmail.com) if you'd like to read that article too.
+And if you are majorly struggling in this area, I have a quick article to read that helps you to figure out where and why you are using screens too much! It's so key to discover WHY so that you can reduce if that's what you'd like to do. Tips are awesome, but without this step, it's going to be much harder to reduce your screen time ... send me an email at [eastcoastkellyb@gmail.com](mailto:eastcoastkellyb@gmail.com) if you'd like to read that article too.
 
 Cheers,
 
