@@ -7,7 +7,6 @@ date: 2020-04-04T03:00:00.000+00:00
 last_modified_at: 
 categories:
 - Priorities
-- To do list
 - Planning
 tags:
 - to do lists
