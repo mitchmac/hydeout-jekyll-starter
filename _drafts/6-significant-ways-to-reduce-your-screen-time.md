@@ -1,42 +1,49 @@
 ---
 layout: post
-title: 6 Significant Ways to Reduce Your Screen Time
-excerpt: ''
-date: 
+title: 5 Significant Ways to Reduce Your Screen Time
+excerpt: Do you struggle with your screen time intake some days? Here are 6 significant
+  ways to reduce your screen time...
+date: 2020-04-27 00:00:00 -0300
 last_modified_at: 
-categories: []
-tags: []
+categories:
+- time management
+tags:
+- 'time management '
+- reducing screen time
+- phone addiction
+- good habits
+- priorities
 comments: false
 
 ---
-The struggle is real. Do you struggle with your screen time intake some days? Phone? Netflix? Social media? Many of us do, no shame, but there is a movement of folk trying to be more aware of how they are spending their time such as the Hands Free Mama movement.
+The struggle is real. Do you struggle with your screen time intake some days? Many of us do, no shame, but there is a movement of folk trying to be more aware of how they are spending their time such as the [Hands Free Mama](https://www.handsfreemama.com/) movement. I was also reading on the website - [Thrive Global ](https://thriveglobal.com/)(helping the world’s leading enterprises unlock their people’s potential and create sustainable peak performance cultures...for work!). They are all about taking care of yourself to become more productive. I read their blog on reducing screen time and here are 6 significant ways to reduce your screen time that I'm recapping and adding my own twist too:
 
-I was reading on the website - thriveglobal (helping the world’s leading enterprises unlock their people’s potential and create sustainable peak performance cultures...for work!). They are all about taking care of yourself to become more productive. I read their blog on reducing screen time and here are 6 Significant Ways to Reduce Your Screen Time that I read:
+## 1. Track your screen time
 
-## 1. Track Your Screen Time
+This is helpful because oftentimes time passes by quickly and it can often be more than you'd think! How often do I sit down to do something, get distracted, and then BAM! It's been 30 mins, an hour, etc. Sound familiar? And. There are [apps](https://www.digitaltrends.com/mobile/best-apps-for-limiting-your-screen-time/) for this too if you're an app person.
 
-This is helpful because oftentimes time passes by quickly and it can often be more than you'd think! There are apps for this too.
+## 2. Delete time-wasting apps
 
-## 2. Delete Time-Wasting Apps
+Unless you run an online business that needs certain platforms (I work online- most of my clients I keep in touch with are on social media, for instance), then it’s unnecessary to keep these apps around. Or another idea I've read about is setting a boundary for yourself to only check in on desktop vs mobile. 
 
-Unless you run an online business that needs certain platforms (I work online- most of my clients I keep on touch with on social media), then it’s unnecessary to keep these apps around. They are time suckers.
+## 3. Set a timer
 
-## 3. Set a Timer
+Can't give up screen time as much as you'd like? Using a simple timer can help you monitor your time. Decide in advance how much time you'd like to spend, such as 15 minutes. Set and go. I often just use google's timer by typing in to google: "set 15 minute timer".
 
-Can't give up screeen time as much as you'd like? Using a simple timer can help you monitor your time.r
+## 4. Replace your habit of picking up your screen with a new one
 
-4. Replace old habit of picking up your screen with new
+Replacing the habit of picking up your phone with a more positive habit, such as picking up a book or calling a friend.
 
+## 5. Set specific times and routines for using your screens
 
-4. 
-5. 
-6. Replacing the habit of picking up the phone with a more positive habit, such as picking up a book or calling a friend.
+You could set routines for yourself like: Mornings are only for using it during my morning routine, I put my phone away at 10 every night. I only use my phone for work..and so on.
 
-5\. Take up a Hobby  
-Like the above, picking up instead of reaching for your screens. You'll be more motivated to pick up your hobby instead!
+And if you are majorly struggling in this area, I have a quick article to read that helps you to figure out where and why you are using screen times too much! It's so key to discover WHY so that you can reduce if that's what you'd like to do. Tips are awesome, but without this step, it's going to be much harder to reduce your screen time ... send me an email at [eastcoastkellyb@gmail.com](mailto:eastcoastkellyb@gmail.com) if you'd like to read that article too.
 
-6\. Another thing I do is make the routines of when i use my phone. Print away at night.
+Cheers,
 
-If you got value, feel free to share via social media, but if you are marjorly struggling in this area, I have a quick article to read that helps you to figure out where and why you are using screen times too much! It's so key to discover WHY so that you can reduce. Tips are awesome, but without this step, it's going to be much harder to reduce your screen time ... send me an email at [eastcoastkellyb@gmail.com](mailto:eastcoastkellyb@gmail.com) message if you'd like that article.
+Kelly
+
+Did you find this helpful? If so, I would greatly appreciate if you shared it.
 
 ⁣
