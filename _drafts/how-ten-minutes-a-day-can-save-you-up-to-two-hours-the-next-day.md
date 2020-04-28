@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How ten minutes a day can save you up to two hours the next day
+title: How Ten Minutes a Day Can Save You Up to Two Hours the Next Day
 excerpt: Looking for more time? Have ten minutes at the end of the day? You might
   just be blown away by how doing this one routine daily will save you up to two hours
   the following day.
