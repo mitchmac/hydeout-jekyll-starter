@@ -1,0 +1,48 @@
+---
+layout: post
+title: How ten minutes a day can save you up to two hours the next day
+excerpt: Looking for more time? Have ten minutes at the end of the day? You might
+  just be blown away by how doing this one routine daily will save you up to two hours
+  the following day.
+date: 2020-04-28 00:00:00 -0300
+last_modified_at: 
+categories:
+- Priorities
+- Planning
+- Time management
+tags:
+- priorities
+- planning
+- bullet journal method
+- eat that frog
+- time management
+- beating procrastination
+- time management skills
+- time management tips
+- bullet journal
+- planner
+- procrastination
+comments: false
+
+---
+Looking for more time? Have ten minutes at the end of the day? You might just be blown away by how doing this one routine daily will save you up to two hours the following day (I read this concept in the book [Eat That Frog!](https://www.briantracy.com/blog/time-management/the-truth-about-frogs/)). On the blog today, I'm sharing with you how ten minutes a day can save you up to two hours the next day. 
+
+## Use those ten minutes to do this
+
+The "Eat that Frog!” technique I read about is all about planning: you think about your tasks and just write them down. Take ten minutes at the end of your day, every day and plan. Write out a prioritized list of to dos for the next day. You can start simple with this if planning is something new to you. I recommend taking a peek at the [bullet journal](www.bulletjournal.com) method too. I've used it for quite a few years now, and it's saved my sanity many times. I spend usually less than ten minutes a day writing my list for the next day. Daily online business tasks, homeschooling books updated, life stuff like order groceries written in. It has saved soooo much time thinking the next day when I have noise in my ears and can't think on my feet in the moment.
+
+## Learn how to prioritize
+
+Next you take your to do list for the next day and prioritize them, so you'll know what task to do first. Rule of thumb for prioritizing - focus on the tasks that will have the most impact. Oftentimes, we get stuck focusing on the "busy work", the organization type tasks. I know I do! Instead of the important ones that help us move towards our goals.
+
+## Bump whatever is unfinished 
+
+At the end of the next day? Anything that is unfinished is bumped to the next day. Over time, you will become better at knowing what your limits are and bonus? You'll very quickly see how insanely large your to do list sometimes gets if you're like me. Ha!   
+  
+And if you are majorly struggling in this area, the book [Eat That Frog!](https://www.amazon.ca/Eat-That-Frog-Great-Procrastinating/dp/1576754227) is soooo helpful. The author has researched for years so he knows what he's talking about and has 1.5 million copies sold of his book. If you'd like a quick recap of all of the ways he suggests to beat procrastination, send me at email at eastcoastkellyb@gmail.com and I'd be happy to send you that list. 
+
+Cheers,
+
+Kelly
+
+Did you find this helpful? If so, I would greatly appreciate if you shared it.
