@@ -10,7 +10,7 @@ I help busy moms create flexible routines with simple living tips to save time a
 
 If you are a beyond busy mother and if you are looking to simplify your life, to strip down to what matters most to you, then you've come to the right place. I teach you how to 𝚕𝚒𝚟e 𝚜𝚒𝚖𝚙𝚕𝚢 through tips, strategies, and ideas. Finding more time for YOU and what you want in life - that you can implement TODAY.
 
-![Headshot](https://affectionate-pasteur-2141cf.netlify.com/static/a5be34c00eabfd96360ac0e83a7fcfc8/4884b/Briggs-33.jpg "Headshot")
+![A headshot of me](/assets/img/Headshot.jpg "Headshot")
 
 **Who is East Coast Kelly?**
 
