@@ -13,7 +13,6 @@ Loving what you're seeing on Instagram? Here's some more of that for you!
 * [Weekly newsletter/freebie Friday](http://eepurl.com/gYFb-r) (the freebies are GOOD, if I must say so myself)
 * [30 day free declutter challenge](https://mailchi.mp/be1930c01cdc/eastcoastkelly)
 * Most popular blog post: [One Daily Tidying Routine that Will Save You Money and Time](https://www.eastcoastkelly.com/cleaning%20&%20tidying/2020/04/23/one-daily-tidying-routine-that-will-save-you-money-and-time.html)
-* [Newest blogs](www.eastcoastkelly.com)
 
 ## Other social media accounts
 
