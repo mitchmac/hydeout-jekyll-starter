@@ -6,7 +6,7 @@ excerpt: Do you struggle with your screen time intake some days? Here are 6 sign
 date: 2020-04-27 00:00:00 -0300
 last_modified_at: 
 categories:
-- time management
+- Time management
 tags:
 - 'time management '
 - reducing screen time
