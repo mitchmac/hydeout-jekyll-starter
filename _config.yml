@@ -1,14 +1,14 @@
 ---
 title: East Coast Kelly
-tagline: Simple Living
-description: Helping busy moms prioritize the to do list & reduce the daily load by
-  using simple living tips.
-url: https://flamboyant-mccarthy-691f26.netlify.com/
+tagline: Helping busy moms create flexible routines.
+description: Helping busy moms create flexible routines with simple living tips to
+  save time and sanity.
+url: 'www.eastcoastkelly.com '
 baseurl: ''
 author:
   name: Kelly Briggs
   url: ''
-paginate: 5
+paginate: 4
 exclude:
 - README.md
 - vendor/bundle
