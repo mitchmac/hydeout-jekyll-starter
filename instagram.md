@@ -16,6 +16,6 @@ Loving what you're seeing on Instagram? Here's some more of that for you!
 
 ## Other social media accounts
 
-* [Facebook](www.facebook.com/kelly.briggs) (you can follow me or friend me if we're friends!)
+* [Facebook](http://www.facebook.com/kelly.briggs) (you can follow me or friend me if we're friends!)
 
 ![A picture of my family. My husband and four children and myself.](/assets/img/Briggs-14.jpg "My family")
