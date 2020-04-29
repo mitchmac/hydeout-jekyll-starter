@@ -31,7 +31,7 @@ Just like scheduling in a sleeping in morning, you could build nights off into y
 
 ## Divide and conquer
 
-Have more than one child? Dividing kids between parents gives both of you a break at the same time. We'd often send one parent with one-two kids to a program, a donut shop date, a nature hike, etc. while the other parent has the others. It's amazing what one or two less kids feels like for a break. And during rainy days or pandemics, this could be on different floors or rooms of the house or outside/inside. 
+Have more than one child? Dividing kids between parents gives both of you a break at the same time. We'd often send one parent with one-two kids to a program, a donut shop date, a nature hike, etc. while the other parent has the others. It's amazing what one or two less kids feels like for a break. And during rainy days or pandemics, this could be on different floors or rooms of the house or outside/inside.
 
 The thing about finding and taking breaks is that is if you don't schedule them into your routine, oftentimes they just will not happen and then the inevitable may happen too - burnout. Don't wait for burnout to take a break. How can you schedule in those breaks? Start by looking at the above tips and see how you can fit them into your life.
 
