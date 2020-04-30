@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Our Current Laundry Routine that Has Taken the Stress Off Of Laundry
-excerpt: ''
+excerpt: Your laundry routine is going to look different from mine, but hopefully
+  looking at mine will give you a good place to start. If you are stressed out from
+  laundry, I hope this helps you out today!
 date: 2020-04-30 00:00:00 -0300
 last_modified_at: 
 categories:
