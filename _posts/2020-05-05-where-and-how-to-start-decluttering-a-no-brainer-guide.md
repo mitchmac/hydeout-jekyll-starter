@@ -44,9 +44,9 @@ So, now that I’ve stepped off my soap box. Here are three ways you can tackle 
    4. Have fun and notice the benefits.
    5. Revisit and revise your goals.
 
-Here’s a bit of a deeper look into his method [here](https://lessismoreorganizers.com/blog/the-becker-method-of-a-minimalist-home).
+       Here’s a bit of a deeper look into his method [here](https://lessismoreorganizers.com/blog/the-becker-method-of-a-minimalist-home).
 
-3\. [The Minimalists](https://www.theminimalists.com/). They have a blog titled “[Decluttering doesn’t work](https://www.theminimalists.com/decluttering/)” that is helpful. I also read [their books](https://www.theminimalists.com/books/) that I really enjoyed! Here's a look into their take on decluttering:
+ 3. [The Minimalists](https://www.theminimalists.com/). They have a blog titled “[Decluttering doesn’t work](https://www.theminimalists.com/decluttering/)” that is helpful. I               also read [their books](https://www.theminimalists.com/books/) that I really enjoyed! Here's a look into their take on decluttering:
 
 > The _what_—i.e., the _how to_—is easy. We all know, instinctually, _how to_ declutter. You can start small: focus on one room at a time, making progress each day as you work toward a simplified life. You can go big: rent a dumpster and throw out everything, moving on to [a more fulfilling life](http://theminimalists.com/lml). Or you can take the moderate approach: plunge into a [Packing Party](http://theminimalists.com/packing) and embrace the fun side of decluttering, enjoying the entire simplification process.
 >
