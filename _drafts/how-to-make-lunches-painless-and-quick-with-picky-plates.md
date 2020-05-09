@@ -21,6 +21,8 @@ tags:
 comments: false
 
 ---
+![](/assets/img/20200509_113027_0000.png)
+
 I’m home full time and when there is no pandemic around, I’m responsible for all meals in the home. So I value quick, easy, and healthy. The less thinking I have to do, the better! We eat the same breakfast daily, so wanted something easy for lunch too. No thinking required for lunches too. Enter picky plates. I’ve also heard them called finger food plates too, but like the name “picky plates”. Today on the blog, I'm sharing about how to design a simple system to make your lunches painless and quick with picky plates.
 
 ## How I put picky plates together
