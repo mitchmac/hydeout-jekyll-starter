@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 3 Ways to Set Yourself Up for Success For the Week
-excerpt: |-
-  Wish you had a bit of motivation and were able to spring forward into the week every Monday? According to [Time Magazine](https://time.com/2807006/15-things-successful-people-do-on-monday-mornings/), there are 15 things successful people do on Monday mornings. Today on the blog, I'm going to share with you 3 ways to set yourself up for success for the week that the most successful people do every Monday.
-
-  ![](/assets/img/20200511_093946_0000.png)
+excerpt: Wish you had a bit of motivation and were able to spring forward into the
+  week every Monday? According to [Time Magazine](https://time.com/2807006/15-things-successful-people-do-on-monday-mornings/),
+  there are 15 things successful people do on Monday mornings. Today on the blog,
+  I'm going to share with you 3 ways to set yourself up for success for the week that
+  the most successful people do every Monday.
 date: 2020-05-11 00:00:00 -0300
 last_modified_at: 
 categories:
