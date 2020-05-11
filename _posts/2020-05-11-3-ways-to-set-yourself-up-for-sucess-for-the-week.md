@@ -35,7 +35,7 @@ Wish you had a bit of motivation and were able to spring forward into the week e
 
 ## They take on the hardest things first
 
-No pracrastinating for them. They take on the hardest tasks first and get on with their day. The book [Eat that Frog!]() dives into the importance of doing the hardest, most important tasks first to lead to more success in what we want in life. Struggle with procrastination? Mel Robbins in her book [The Five Second Rule](https://melrobbins.com/five-elements-5-second-rule/) talks about how it's more important to know WHY we proscrastinate than learn all the strategies to beat it. We procrastinate, based on her research, because we are avoiding STRESS. So exploring why we procrastinate will point to the real reasons for avoidance! Good to know right?
+No procrastinating for them. They take on the hardest tasks first and get on with their day. The book [Eat that Frog!]() dives into the importance of doing the hardest, most important tasks first to lead to more success in what we want in life. Struggle with procrastination? Mel Robbins in her book [The Five Second Rule](https://melrobbins.com/five-elements-5-second-rule/) talks about how it's more important to know WHY we proscrastinate than learn all the strategies to beat it. We procrastinate, based on her research, because we are avoiding STRESS. So exploring why we procrastinate will point to the real reasons for avoidance! Good to know right?
 
 ## Update your to do list and weekly goals
 
@@ -47,8 +47,8 @@ And I'm not sure exactly where the link to the study is, but a business trainer 
 
 ## Eat a good breakfast
 
-Simple, right? It would be hard to get moving and feel that energy if we literally don't have any energy in our bodies to give. Eat something balanced and healthy - oatmeal, fruit, yogurt. And get going for your day!  
-  
+Simple, right? It would be hard to get moving and feel that energy if we literally don't have any energy in our bodies to give. Eat something balanced and healthy - oatmeal, fruit, yogurt. And get going for your day!
+
 Most of us have a tendency to stick the toughest challenges near the end, but our energy is usually strongest earlier in the day and week. Is this something you do too? I'm back and forth on this. Sometimes I like to avoid by doing something else I like first. ....There's just something about the start of the week that gets me every time. A fresh start. Hopefulness. The unknown adventures to unfold. So here's to today and this week. Let's go!⁣⁣
 
 _If you'd like to dive more into goal setting, not just for Mondays, I came across a fantastic way to work through a systematic, but simple way to do this that I read in_ [_The Bullet Journal book_](https://bulletjournal.com/) _that has stuck with me. I'd be happy to share with you my notes on how to apply that step by step method. Just send me an email at eastcoastkellyb@gmail.com and I can send along the steps from my notes I took when reading the book._
