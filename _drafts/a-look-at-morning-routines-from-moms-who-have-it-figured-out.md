@@ -23,6 +23,8 @@ tags:
 comments: false
 
 ---
+![](/assets/img/20200514_151653_0000.png)
+
 Not long ago, I did up a blog on a bit about [my current morning routine](https://www.eastcoastkelly.com/morning%20routine/2020/04/21/how-to-have-a-morning-routine-with-children-around.html) and was interested to hear how others did theirs. I had a few moms reach out to me to share theirs. Perhaps you will find them helpful as well! Today on the blog, I’ll be sharing a handful of morning routines from moms who have it figured out.
 
 ## From my friend Terri, a mom of two littles, and a fellow business owner:
@@ -55,10 +57,10 @@ You can find Tabitha on Instagram at [brick_housebodies](https://www.instagram.c
 
 Here's what is in my morning routine that I learned about through the book The Miracle Morning (it's so good and helpful!).
 
-* Prayer. Usually I am doing a current Bible study with a group I'm in. 
-* Affirmations & visualizations. Just short phrases of things I believe like scripture, my values, and goals. 
-* Reading. I'm usually reading a personal book and business one. 
-* Writing. I write a line of daily gratitude, a social media post, and a blog post now. Some days it's notes for a live video I'm doing. Or a special project. Just something I'm writing. It varies by day. 
+* Prayer. Usually I am doing a current Bible study with a group I'm in.
+* Affirmations & visualizations. Just short phrases of things I believe like scripture, my values, and goals.
+* Reading. I'm usually reading a personal book and business one.
+* Writing. I write a line of daily gratitude, a social media post, and a blog post now. Some days it's notes for a live video I'm doing. Or a special project. Just something I'm writing. It varies by day.
 * A quick stretch to get my body moving.
 
 You can read all about how I designed my morning routine by taking a read through [The Miracle Morning book](https://www.amazon.ca/dp/B00AKKS278/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)! It changed my morning routine game last year and I haven’t gone back. You can find me on Instagram at [eastcoastkelly](https://www.instagram.com/eastcoastkelly/).
