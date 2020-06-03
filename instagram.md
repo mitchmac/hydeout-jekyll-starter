@@ -13,8 +13,8 @@ Loving what you're seeing on Instagram? Here's some more of that for you!
 * [Weekly newsletter/freebie Friday](http://eepurl.com/gYFb-r) (the freebies are GOOD, if I must say so myself!)
 * Most popular blog post:
   * [How to Create a Daily Rhythm at Home](https://www.eastcoastkelly.com/at%20home%20with%20kids/planning/2020/05/21/how-to-create-a-daily-rhythm-at-home.html)
-* [Simple business information form](https://forms.gle/v11JEewD81mxsUyf6)
 * I course I took recently that I LOVE. Erica gives it to you straight. She's fantastic: [How to Grow Your Instgram Account organically](https://digital.mombreak.ca/howigrewmyinstagram/26mcq) (aff link)
+* Looking for online work? [Simple business information form](https://forms.gle/v11JEewD81mxsUyf6)
 
 ## Other social media accounts
 
