@@ -1,8 +1,11 @@
 ---
 title: East Coast Kelly
-tagline: Helping busy moms create flexible routines & to do lists.
-description: Helping busy moms create flexible routines & to do lists with simple
-  living tips to save time & sanity.
+tagline: "I help busy moms \U0001D494\U0001D48A\U0001D48E\U0001D491\U0001D48D\U0001D48A\U0001D487\U0001D49A
+  + \U0001D491\U0001D493\U0001D48A\U0001D490\U0001D493\U0001D48A\U0001D495\U0001D48A\U0001D49B\U0001D486
+  routines, to do lists, home management "
+description: "Helping busy moms c\U0001D494\U0001D48A\U0001D48E\U0001D491\U0001D48D\U0001D48A\U0001D487\U0001D49A
+  + \U0001D491\U0001D493\U0001D48A\U0001D490\U0001D493\U0001D48A\U0001D495\U0001D48A\U0001D49B\U0001D486
+  routines, to do lists, home management to save time & sanity."
 url: 'www.eastcoastkelly.com '
 baseurl: ''
 author:
@@ -19,7 +22,7 @@ plugins:
 - jekyll-menus
 sidebar_home_link: true
 theme_colors:
-  sidebar-bg-color: "#1C1408"
+  sidebar-bg-color: "#000000"
   sidebar-fg-color: "#FFFFFF"
   link-color: "#000000"
 sidebar-sticky: true
