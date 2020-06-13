@@ -3,7 +3,7 @@ layout: page
 sidebar_link: true
 title: Shop
 date: 
-sidebar_sort_order: 3
+sidebar_sort_order: 2
 
 ---
 Hey! You are here because you'd like to see the kinds of things I share about that you may want to purchase. You've come to the right place, if that's the case.
