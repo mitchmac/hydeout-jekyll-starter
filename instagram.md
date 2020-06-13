@@ -10,11 +10,16 @@ Loving what you're seeing on Instagram? Here's more of that for you!
 
 ## The best of the best
 
-* [Weekly newsletter/freebie Friday](http://eepurl.com/gYFb-r) (past examples: quiet time template, habit tracker template)
-* Most popular blog:
-  * [How to Create a Daily Rhythm at Home](https://www.eastcoastkelly.com/at%20home%20with%20kids/planning/2020/05/21/how-to-create-a-daily-rhythm-at-home.html)
+* [Weekly newsletter/freebie Friday](http://eepurl.com/gYFb-r) (latest hit was The Simple Capsule Wardrobe Guide!)
+* Latest popular blog: [3 Tips to Work from Home With Kids that Will Set You Up for Success](https://www.eastcoastkelly.com/at%20home%20with%20kids/2020/06/04/3-tips-to-work-from-home-with-kids-that-will-set-you-up-for-success.html)
 * A course I took recently that I LOVE. Erica gives it to you straight: [How to Grow Your Instagram Account Organically](https://digital.mombreak.ca/howigrewmyinstagram/26mcq) (aff link)
 * Looking for online work? Start [here](https://forms.gle/v11JEewD81mxsUyf6)!
+
+## Amazon shop
+
+Shop [HERE](www.amazon.ca/shop/eastcoastkelly) if you are in Canada.    -   Shop [HERE](www.amazon.ca/shop/eastcoastkelly) if you are in the US. I'll be adding things regularly that I use and love from Amazon! Enjoy.
+
+![A picture of me in the mirror. Amazon shop image.](/assets/img/20200606_151056_0000.png "amazonshopimage")
 
 ## Other social media accounts
 
