@@ -10,7 +10,7 @@ Hey! You are here because you'd like to see the kinds of things I share about th
 
 ## Amazon shop
 
-Shop [HERE](www.amazon.com/shop/eastcoastkelly) if you are in the US.  Shop [HERE](www.amazon.ca/shop/eastcoastkelly) if you are in Canada.   I'll be adding things regularly that I use and love from Amazon! Enjoy.
+Shop [HERE](http://www.amazon.com/shop/eastcoastkelly) if you are in the US.  Shop [HERE](www.amazon.ca/shop/eastcoastkelly) if you are in Canada.   I'll be adding things regularly that I use and love from Amazon! Enjoy.
 
 ![A picture of me in the mirror. Amazon shop image.](/assets/img/20200606_151056_0000.png "amazonshopimage")
 
