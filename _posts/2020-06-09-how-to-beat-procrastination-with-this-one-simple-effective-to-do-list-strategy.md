@@ -8,7 +8,7 @@ date: 2020-06-09 00:00:00 -0300
 last_modified_at: 
 categories:
 - Time management
-- planning
+- Planning
 tags:
 - to do lists
 - planning
