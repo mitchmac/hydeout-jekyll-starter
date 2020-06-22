@@ -6,12 +6,11 @@ excerpt: Wish you had a bit of motivation and were able to spring forward into t
   there are 15 things successful people do on Monday mornings. Today on the blog,
   I'm going to share with you 3 ways to set yourself up for success for the week that
   the most successful people do every Monday.
-date: 2020-05-11 00:00:00 -0300
+date: 2020-05-11T00:00:00.000-03:00
 last_modified_at: 
 categories:
 - Time management
 - Planning
-- Priorities
 tags:
 - procrastination
 - monday motivation
