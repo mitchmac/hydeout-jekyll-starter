@@ -10,7 +10,7 @@ excerpt: I've noticed over the years as we've added on more kids that I (and the
 date: 2020-05-21T00:00:00.000-03:00
 last_modified_at: 
 categories:
-- Planning
+- Routines
 tags:
 - rhythms to the day
 - daily rhythms
