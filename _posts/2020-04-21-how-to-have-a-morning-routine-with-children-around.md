@@ -5,10 +5,10 @@ excerpt: 'Images of 5am mornings, quiet cups of coffee alone before the kids wak
   up. Seems like a dream to you? You are not alone. Here''s the truth: not every morning
   routine has to be or will look like this. I''m going to share with you ways to have
   a morning routine even if you have children, especially little children around. '
-date: 2020-04-21 00:00:00 -0300
+date: 2020-04-21T00:00:00.000-03:00
 last_modified_at: 
 categories:
-- Morning routine
+- Routines
 tags:
 - miracle morning
 - morning routine
