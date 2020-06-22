@@ -4,11 +4,10 @@ title: One Way to Organize Your Week Using this One Simple Method
 excerpt: Now more than ever, the value of time has become clearer for many of us.
   What if. What if you started thinking about your time differently after all this?
   Or heck, starting today.
-date: 2020-04-16 00:00:00 -0300
+date: 2020-04-16T00:00:00.000-03:00
 last_modified_at: 
 categories:
-- Time management
-- Priorities
+- Planning
 tags:
 - planning
 - priorities
