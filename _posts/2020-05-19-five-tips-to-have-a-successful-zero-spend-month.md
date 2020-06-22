@@ -5,10 +5,10 @@ excerpt: Sometimes budgeting is just not enough and it needs to go deeper. Enter
   spending. More of a mindset way to look at spending and keeping track of purchases
   and being more mindful of what you spend money on. Today on the blog, I'm sharing
   five tips to have a successful zero spend month.
-date: 2020-05-19 00:00:00 -0300
+date: 2020-05-19T00:00:00.000-03:00
 last_modified_at: 
 categories:
-- Priorities
+- Planning
 tags:
 - zero spend months
 - zero spend

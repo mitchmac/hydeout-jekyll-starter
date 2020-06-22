@@ -4,10 +4,10 @@ title: How to Discover Your Values
 excerpt: 'Today on the blog, I''ll be sharing with you a bit about what some of my
   values are and I will be giving you a simple exercise for you to discover some of
   yours too. '
-date: 2020-05-28 00:00:00 -0300
+date: 2020-05-28T00:00:00.000-03:00
 last_modified_at: 
 categories:
-- Priorities
+- Planning
 tags:
 - values
 - family values

@@ -6,11 +6,10 @@ excerpt: You are worth so much more than the size of your crossed off to do list
   pressing matters. Have an unending to do list? Feel like you are never on top of
   things? Today on the blog I'm going to leave you with some to do list tips I read
   that were simple and practical and perfect for busy moms.
-date: 2020-05-20 00:00:00 -0300
+date: 2020-05-20T00:00:00.000-03:00
 last_modified_at: 
 categories:
 - Planning
-- Priorities
 tags:
 - to do lists
 - busy moms who plan
@@ -43,7 +42,3 @@ Cheers,
 Kelly
 
 Did you find this helpful? If so, I would greatly appreciate if you shared it.
-
-  
-   
- 
