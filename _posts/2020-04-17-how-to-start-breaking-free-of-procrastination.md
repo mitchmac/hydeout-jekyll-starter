@@ -4,10 +4,10 @@ title: How to Start Breaking Free of Procrastination
 excerpt: Knowing where procratination comes from can become way more important than
   learning all of the time management strategies in the world. On the blog today I'm
   sharing about how to start breaking free of procrastination.
-date: 2020-04-17 00:00:00 -0300
+date: 2020-04-17T00:00:00.000-03:00
 last_modified_at: 
 categories:
-- Time management
+- Planning
 tags:
 - beating procrastination
 - procrastination
