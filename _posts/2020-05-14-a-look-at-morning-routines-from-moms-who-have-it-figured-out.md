@@ -5,10 +5,10 @@ excerpt: Not long ago, I did up a blog on a bit about my current morning routine
   was interested to hear how others did theirs. I had a few moms reach out to me to
   share theirs. Perhaps you will find them helpful as well! Today on the blog, I’ll
   be sharing a handful of morning routines from moms who have it figured out.
-date: 2020-05-14 00:00:00 -0300
+date: 2020-05-14T00:00:00.000-03:00
 last_modified_at: 
 categories:
-- Morning routine
+- Routines
 tags:
 - Morning routine
 - Miracle morning
