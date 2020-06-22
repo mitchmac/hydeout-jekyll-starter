@@ -5,10 +5,10 @@ excerpt: Reinventing ourselves as a new person practically - once little people 
   around, but it's important for us to find time for ourselves too in the midst of
   those parenting days. Today I'm sharing some creative ways to take turns finding
   time by yourself, with the support of a partner.
-date: 2020-04-29 00:00:00 -0300
+date: 2020-04-29T00:00:00.000-03:00
 last_modified_at: 
 categories:
-- At home with kids
+- Routines
 tags:
 - routines with kids
 - parenting
