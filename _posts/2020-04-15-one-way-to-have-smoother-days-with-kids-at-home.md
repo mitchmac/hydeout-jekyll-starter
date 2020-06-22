@@ -5,10 +5,10 @@ excerpt: 'Did you know that transitions can possibly make or break your day with
   Transitions are basically those in between times from switching one activity to
   the next. Today on the blog I''m sharing with you how to have smoother days at home
   with kids by tackling your transition times. '
-date: 2020-04-15 00:00:00 -0300
+date: 2020-04-15T00:00:00.000-03:00
 last_modified_at: 
 categories:
-- At home with kids
+- Planning
 tags:
 - transitions with kids
 - schedules

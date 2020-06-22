@@ -4,10 +4,10 @@ title: Five Things You Can Do to Have the Best Morning Ever
 excerpt: 'Today on the blog, I''ll be sharing with you five things that people who
   have morning routines figured out do to have the best morning ever (to set them
   up for success for the day, week). '
-date: 2020-06-08 00:00:00 -0300
+date: 2020-06-08T00:00:00.000-03:00
 last_modified_at: 
 categories:
-- Morning routine
+- Routines
 tags:
 - morning routine
 - the best morning routine

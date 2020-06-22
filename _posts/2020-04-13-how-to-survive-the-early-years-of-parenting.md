@@ -4,10 +4,10 @@ title: How to Survive the Early Years of Parenting
 excerpt: Today on the blog I'm sharing with you how to look at your days, shifting
   your mindset, and designing your days to help you to reduce overwhelm and get you
   through these years.
-date: 2020-04-13 00:00:00 -0300
+date: 2020-04-13T00:00:00.000-03:00
 last_modified_at: 
 categories:
-- At home with kids
+- Planning
 tags:
 - toddler years
 - early parenting
@@ -43,7 +43,7 @@ Setting your bare minimum expected day of non-negotiables in advance will help y
 
 Right now during this pandemic, this is really not possible for most of us, but it's good to think about long term. Finding support is key in surviving the early years of parenting. Maybe hiring a housekeeper every few weeks for an hour will help. Asking friends and family to hang out with a kid for an hour or two here and there. Taking turns doing bedtime duty with a partner.
 
-And if this is an area you'd like to work on more - to create a bare minimum day for yourself and your family, I have a simple worksheet that may help you out in starting to dive in deeper. If you'd like to start creating your bare minimum day, feel free to send me an email at eastcoastkellyb@gmail.com and I'd be happy to share that free worksheet with you.
+_And if this is an area you'd like to work on more - to create a bare minimum day for yourself and your family, I have a simple worksheet that may help you out in starting to dive in deeper. If you'd like to start creating your bare minimum day, feel free to send me an email at eastcoastkellyb@gmail.com and I'd be happy to share that free worksheet with you._
 
 Cheers!
 

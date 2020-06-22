@@ -3,10 +3,10 @@ layout: post
 title: 5 Significant Ways to Reduce Your Screen Time
 excerpt: Do you struggle with your screen time intake some days? Here are 6 significant
   ways to reduce your screen time...
-date: 2020-04-27 00:00:00 -0300
+date: 2020-04-27T00:00:00.000-03:00
 last_modified_at: 
 categories:
-- Time management
+- Routines
 tags:
 - 'time management '
 - reducing screen time

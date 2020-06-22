@@ -7,7 +7,7 @@ excerpt: How could we honest to goodness keep on top of all things to balance at
 date: 2020-05-04T03:00:00.000+00:00
 last_modified_at: 
 categories:
-- Priorities
+- Routines
 tags:
 - finding balance
 - balance is a myth

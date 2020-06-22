@@ -3,10 +3,10 @@ layout: post
 title: Setting Boundaries Around Bedtime Routines
 excerpt: Today on the blog, I’m sharing ways to set boundaries around bedtime routines
   by taking a look at what we have done over the years.
-date: 2020-06-18 00:00:00 -0300
+date: 2020-06-18T00:00:00.000-03:00
 last_modified_at: 
 categories:
-- At home with kids
+- Routines
 tags:
 - setting boundaries around bedtime with kids
 - bedtime routines

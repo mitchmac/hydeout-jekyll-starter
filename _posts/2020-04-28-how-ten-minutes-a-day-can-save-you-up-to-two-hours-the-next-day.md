@@ -4,12 +4,10 @@ title: How Ten Minutes a Day Can Save You Up to Two Hours the Next Day
 excerpt: Looking for more time? Have ten minutes at the end of the day? You might
   just be blown away by how doing this one routine daily will save you up to two hours
   the following day.
-date: 2020-04-28 00:00:00 -0300
+date: 2020-04-28T00:00:00.000-03:00
 last_modified_at: 
 categories:
-- Priorities
 - Planning
-- Time management
 tags:
 - priorities
 - planning

@@ -5,10 +5,10 @@ excerpt: Being able to clearly see your family values will help navigate the day
   day. The to do list. The priorities. The routines. Discovering and defining core
   values will direct your now and the future. Today on the blog I’ll be sharing with
   you how to create a family motto based on your values in three steps.
-date: 2020-05-07 00:00:00 -0300
+date: 2020-05-07T00:00:00.000-03:00
 last_modified_at: 
 categories:
-- Priorities
+- Planning
 tags:
 - priorities
 - family motto

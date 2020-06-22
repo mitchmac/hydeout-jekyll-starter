@@ -5,10 +5,10 @@ title: How to Help Reduce the Feeling of Overwhelm as a Mom by Using This One Si
 excerpt: Do you struggle with how you feel about your journey as a mom? Affirmations
   can be such a small routine to add to your day that can go far when you are having
   hard moments.
-date: 2020-05-06 00:00:00 -0300
+date: 2020-05-06T00:00:00.000-03:00
 last_modified_at: 
 categories:
-- Morning routine
+- Routines
 tags:
 - morning routine
 - miracle morning

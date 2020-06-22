@@ -5,10 +5,10 @@ excerpt: "Sometimes I am relying on a few minutes here and there. Building it in
   my routine. Changing it up for different seasons of life. It really takes an extraordinary
   amount of flexibility and creativity. Today on the blog I’m sharing three ways to
   be creative with squeezing in some rest/self care with a busy household.  \n "
-date: 2020-05-18 00:00:00 -0300
+date: 2020-05-18T00:00:00.000-03:00
 last_modified_at: 
 categories:
-- At home with kids
+- Planning
 tags:
 - self care for moms
 - creative self care ideas
