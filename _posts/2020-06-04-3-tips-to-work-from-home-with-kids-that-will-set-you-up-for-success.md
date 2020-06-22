@@ -3,10 +3,11 @@ layout: post
 title: 3 Tips to Work from Home With Kids that Will Set You Up for Success
 excerpt: Today on the blog, I'm going to be sharing some tips I've learned through
   experience and from what other successful work at home parents do too.
-date: 2020-06-04 00:00:00 -0300
+date: 2020-06-04T00:00:00.000-03:00
 last_modified_at: 
 categories:
-- At home with kids
+- Planning
+- Routines
 tags:
 - Working at home with kids
 - working at home with kids' tips
