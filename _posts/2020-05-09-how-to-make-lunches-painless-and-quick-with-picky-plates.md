@@ -4,10 +4,10 @@ title: How to Make Lunches Painless and Quick with Picky Plates
 excerpt: Do you value quick, easy, and healthy meals? Enter picky plates. Today on
   the blog, I'm sharing about how to design a simple system to make your lunches painless
   and quick.
-date: 2020-05-09 00:00:00 -0300
+date: 2020-05-09T00:00:00.000-03:00
 last_modified_at: 
 categories:
-- At home with kids
+- Planning
 tags:
 - picky plates
 - finger foods
