@@ -5,10 +5,10 @@ excerpt: Mealtimes can be like rushing at the speed of light to feed. the. wolve
   It used to stress me out and once and a while still does...especially when I've
   been slacking in the meal planning department. Today on the blog I'm sharing with
   you three tips to feed the hangry children fast.
-date: 2020-06-17 00:00:00 -0300
+date: 2020-06-17T00:00:00.000-03:00
 last_modified_at: 
 categories:
-- At home with kids
+- Planning
 tags:
 - picky plates
 - finger foods
