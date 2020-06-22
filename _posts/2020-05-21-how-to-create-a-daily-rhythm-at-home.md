@@ -7,10 +7,9 @@ excerpt: I've noticed over the years as we've added on more kids that I (and the
   many times, but always hit a wall of it not working and just generally stressing
   me out. Today on the blog I’m sharing with you how to create a daily rhythm at home
   (by giving you examples of our rhythm throughout the day too).
-date: 2020-05-21 00:00:00 -0300
+date: 2020-05-21T00:00:00.000-03:00
 last_modified_at: 
 categories:
-- At home with kids
 - Planning
 tags:
 - rhythms to the day
