@@ -3,7 +3,7 @@ layout: post
 title: Three Key Steps to Maintaining Decluttering Sanity with Kids
 excerpt: If it doesn't leave the house, they. will. find. it. Today on the blog, I'm
   sharing with you three key steps to maintaining decluttering sanity with kids.
-date: 2020-05-13 00:00:00 -0300
+date: 2020-05-13T00:00:00.000-03:00
 last_modified_at: 
 categories:
 - Cleaning & tidying
@@ -29,12 +29,12 @@ Every time you put things back. Clothes. Toys. Books. Anything you find on the f
 
 ## Have a home for everything
 
-Have a home for everything so that you know how much you have of everything. Lego. Stuffies. etc. What's a home? According to [Marie Kondo](https://www.goodhousekeeping.com/home/organizing/a25846191/what-is-the-konmari-method/), it's just a resting place for your stuff. For instance, our utensils go in a certain drawer, house keys have a spot, art papers have a drawer, and so on.
+Have a home for everything so that you know how much you have of everything. Lego. Stuffies. etc. What's a home? According to [Marie Kondo](https://www.goodhousekeeping.com/home/organizing/a25846191/what-is-the-konmari-method/), it's just a resting place for your stuff. For instance, our utensils go in a certain drawer, house keys have a spot, art papers have a drawer, and so on. You can read more about her method in her book [The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing ](https://amzn.to/31alsJK)
 
 ## Involve the kids
 
-Help them to recognize things they no longer need or love (it's a long term process here as we've found lol). But, including the kids routinely will help them to learn the skills of decluttering too over time. Not perfectly of course. We have one child who enjoys collecting electricians. That's his joy. But to help him make decisions on what is best to keep is still taught.   
-   
+Help them to recognize things they no longer need or love (it's a long term process here as we've found lol). But, including the kids routinely will help them to learn the skills of decluttering too over time. Not perfectly of course. We have one child who enjoys collecting electricians. That's his joy. But to help him make decisions on what is best to keep is still taught.
+
 _PS one of my mail list freebies was for a simple guide to maintenance decluttering with kids! I expanded on these three steps above and have seven more for you too. Just send me an email at eastcoastkellyb@gmail.com if you’d like that guide for free and I’ll send it off to you!_
 
 Cheers,
