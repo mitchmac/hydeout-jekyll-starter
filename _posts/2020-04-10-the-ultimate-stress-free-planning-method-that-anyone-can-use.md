@@ -4,7 +4,7 @@ title: The Ultimate Stress Free Planning Method that Anyone Can Use
 excerpt: If you're feeling overwhelmed. If you're juggling all the things. If you
   constantly feel behind. Or if you just want to reduce the daily load, this method
   is for you!
-date: 2020-04-10 00:00:00 -0300
+date: 2020-04-10T00:00:00.000-03:00
 last_modified_at: 
 categories:
 - Planning
@@ -37,7 +37,7 @@ Start with one, go through the next task. Keep going and then repeat. That's the
 * Homeschooling
 * Work tasks that don't need to be done daily
 
-  These are the areas I use too. If you'd like to dive in and start creating your own loop plan and are looking for a template, I have one for you! Send me an email at eastcoastkellyb@gmail.com and I'd be happy to send you that.
+  _These are the areas I use too. If you'd like to dive in and start creating your own loop plan and are looking for a template, I have one for you! Send me an email at eastcoastkellyb@gmail.com and I'd be happy to send you that._
 
 Cheers,
 
