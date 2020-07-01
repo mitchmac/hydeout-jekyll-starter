@@ -35,15 +35,15 @@ After supper, when we do our quick main floor tidy up routine, I also tackle any
 
 ## How we sort the laundry
 
-So, all that laundry is ready to be put away. How do we sort it from here? We have different zones that are sorted into either a laundry basket or bag. What it looks like right now:
+So, all that laundry is ready to be put away. How do we sort it from here? We have different zones that are sorted into either a laundry [basket](https://amzn.to/3fRyf86) or [bag](https://amzn.to/2CA1tKk). What it looks like right now:
 
 * Theo (9) has his own laundry basket.
 * Felix (6) has his own laundry basket too. He also puts away all socks and undies, and face cloths that belong in the kids' bathroom. He puts his clothes on a shelf in the bathroom closet shelf.
 * Arthur (4) and Josie (1) share a laundry basket too. I fold and put away in their bathroom closet shelf. Bedsheets for the kids' rooms also goes in this basket.
 * My husband Zach and I have a shared laundry bag.
-* We have a laundry bag for cloth diapers, master bath towels and face cloths.
+* We have a laundry bag for [cloth diapers](https://amzn.to/2D0tyeh), master bath towels and face cloths.
 * We have a laundry bag for master bedroom bedsheets.
-* Our household laundry like cleaning rags just goes away right away as the laundry room is near the kitchen.
+* Our household laundry like [cleaning rags](https://amzn.to/3dKSjrj) just goes away right away as the laundry room is near the kitchen.
 
 ## Our putting away laundry routine
 
@@ -51,7 +51,7 @@ Our routine for putting away laundry has two parts. One for the bare minimum, on
 
 _Bare minimum putting away laundry routine_? Is just keeping the laundry IN the laundry room, but sorted in baskets and bags. The baskets stack, which is nice too.
 
-If we have that extra time? Once the laundry bags or baskets are close to full, they usually make their way upstairs. That's our rule of thumb. Keep the bags, baskets in the laundry room until they are full and then transfer upstairs.
+If we have that extra time? Once the laundry bags or baskets are close to full, they usually make their way upstairs. That's our rule of thumb. Keep the  bags, baskets in the laundry room until they are full and then transfer upstairs.
 
 Now, if the laundry makes its way fully upstairs, Arthur, Josie, Felix's baskets go in the kids' bathroom and I'll put away Arthur and Josie's, Felix puts away his. Theo puts away his laundry in his room. A top drawer for pants and a closet for shirts. I usually put away mine and my husband's clothes and our bedsheets stays in a laundry bag until they are needed again. I put away the kids' bedsheets in our linen closet.
 
