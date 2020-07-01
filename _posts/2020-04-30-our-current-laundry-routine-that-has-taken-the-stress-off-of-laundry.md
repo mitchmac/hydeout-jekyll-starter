@@ -23,7 +23,7 @@ So, laundry used to be my nemesis. I think I felt "on top of it" until I hit two
 
 ## Where the dirty laundry lies
 
-Let's start at the dirty laundry. Dirty clothes goes into one laundry basket in our linen closet. Everyone's clothes. Together. I do not sort anything aside from keeping the cloth diapers separate. This is what works for us. And simplifies things for us too. Our baby girl's cloth diapers are in a bin with a pail liner in our master bathroom as her crib is in our room. The only thing that drives me bonkers is when they leave their random clothes they throw off like socks all over the place throughout the day. Working on that. ha!
+Let's start at the dirty laundry. Dirty clothes goes into one [laundry basket](https://amzn.to/3fRyf86) in our linen closet. Everyone's clothes. Together. I do not sort anything aside from keeping the [cloth diapers](https://amzn.to/3gcNtEN) separate. This is what works for us. And simplifies things for us too. Our baby girl's cloth diapers are in a bin with a pail liner in our master bathroom as her crib is in our room. The only thing that drives me bonkers is when they leave their random clothes they throw off like socks all over the place throughout the day. Working on that. ha!
 
 ## What we do every morning
 
