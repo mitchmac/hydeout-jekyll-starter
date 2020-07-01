@@ -27,7 +27,7 @@ Hello laundry. Always there. Always looming. Never caught up with. Today, I'm go
 
 ### 1. Do laundry daily.
 
-Put on a load every day, no matter how small. Oh and dry it too. Just do it. You won't regret it. Ok, to be fair, I know not every family is our size (four kids, two adults, and [cloth diapers](cloth diapers)). So if it’s not every day, do it when it makes sense to do it, such as when you have enough for a load.
+Put on a load every day, no matter how small. Oh and dry it too. Just do it. You won't regret it. Ok, to be fair, I know not every family is our size (four kids, two adults, and [cloth diapers](https://amzn.to/3gcNtEN)). So if it’s not every day, do it when it makes sense to do it, such as when you have enough for a load.
 
 ### 2. Decide when laundry gets done.
 
