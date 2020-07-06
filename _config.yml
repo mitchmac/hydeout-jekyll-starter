@@ -8,7 +8,7 @@ baseurl: ''
 author:
   name: Kelly Briggs
   url: ''
-paginate: 4
+paginate: 5
 exclude:
 - README.md
 - vendor/bundle
@@ -17,7 +17,7 @@ plugins:
 - jekyll-gist
 - jekyll-paginate
 - jekyll-menus
-sidebar_home_link: true
+sidebar_home_link: false
 theme_colors:
   sidebar-bg-color: "#000000"
   sidebar-fg-color: "#FFFFFF"
