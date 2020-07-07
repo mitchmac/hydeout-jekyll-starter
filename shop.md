@@ -16,9 +16,9 @@ Shop [HERE](http://www.amazon.com/shop/eastcoastkelly) if you are in the US.  Sh
 
 ## Other things I've enjoyed
 
-* Get 10% off + free shipping for my fave scrunchies that I wear almost daily with the code EASTCOASTKELLY10 at [Scrunchie Squad](https://www.scrunchiesquad.com/). (affiliate link. I make a small commission). My fave is shown below!
+* A course I took recently that I LOVE. Erica gives it to you straight. I really enjoy how she lays things out for simply and doesn't hold anything back: [How to Grow Your Instagram Account Organically](https://digital.mombreak.ca/howigrewmyinstagram/26mcq) (affiliate link. I make a small commision if you end up loving it too!)
+* Get 10% off + free shipping for my fave scrunchies that I wear almost daily with the code EASTCOASTKELLY10 at [Scrunchie Squad](https://www.scrunchiesquad.com/). (affiliate link. I make a small commission). My fave is shown below.
 
 ![A picture of my favourite scrunchie. Navy with flowers.](/assets/img/10_2019-new-chiffon-printing-hair-scrunchies-ponytail-holder-soft-stretchy-hair-ties-elastics-hair-bands-for-removebg-preview_539796bc-cfcd-42cb-8ac3-711d4cb2a153_1024x1024.png "scrunchie")
 
-* A course I took recently that I LOVE. Erica gives it to you straight. I really enjoy how she lays things out for simply and doesn't hold anything back: [How to Grow Your Instagram Account Organically](https://digital.mombreak.ca/howigrewmyinstagram/26mcq) (aff link)
 * Looking for simple online work? Start [here](https://forms.gle/v11JEewD81mxsUyf6).
