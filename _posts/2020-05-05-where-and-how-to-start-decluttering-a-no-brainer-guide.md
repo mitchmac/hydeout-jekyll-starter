@@ -5,7 +5,7 @@ excerpt: 'There are so many takes on decluttering and pieces of advice on declut
   Today on the blog, I’m going to share with you, if you are new to decluttering.
   And you don’t know where to start… where and how to start decluttering: a no brainer
   guide.'
-date: 2020-05-05 00:00:00 -0300
+date: 2020-05-05T00:00:00.000-03:00
 last_modified_at: 
 categories:
 - Cleaning & tidying
@@ -36,17 +36,16 @@ First up, let’s clear this up. I’m not going to give you the 100% foul proof
 
 So, now that I’ve stepped off my soap box. Here are three ways you can tackle decluttering that may help you out:
 
-1. [Marie Kondo](https://konmari.com/). This was actually the method that clicked first for me. Now, hear me out. I didn’t take everything that she taught and applied it. The folding method she uses, for instance, I didn’t apply to most things. Her take for decluttering is: go section by section and deal with it all at once. Her sequence of categories: clothes, books, papers, komono/miscellany, and mementos. And as you go through each category, you learn what “sparks joy”. It’s a neat way of looking at things. The book that I read of hers is [The Life Changing Magic of Tidying Up](https://www.goodreads.com/book/show/22318578-the-life-changing-magic-of-tidying-up) and here’s a blog to an overview of her method [here](https://medium.com/@dsilvestre/the-life-changing-magic-of-tidying-up-by-marie-kondo-lessons-d33dc4db73c2).
-2. [Joshua Becker](https://www.becomingminimalist.com/). I really enjoy his method and take on things. Here's an overview of his method from his book the [The Minimalist Home](https://www.amazon.ca/Minimalist-Home-Room-Room-Decluttered/dp/1601427999):
+1. [Marie Kondo](https://konmari.com/). This was actually the method that clicked first for me. Now, hear me out. I didn’t take everything that she taught and applied it. The folding method she uses, for instance, I didn’t apply to most things. Her take for decluttering is: go section by section and deal with it all at once. Her sequence of categories: clothes, books, papers, komono/miscellany, and mementos. And as you go through each category, you learn what “sparks joy”. It’s a neat way of looking at things. The book that I read of hers is [The Life Changing Magic of Tidying Up](https://amzn.to/38zOVi7) and here’s a blog to an overview of her method [here](https://medium.com/@dsilvestre/the-life-changing-magic-of-tidying-up-by-marie-kondo-lessons-d33dc4db73c2).
+2. [Joshua Becker](https://www.becomingminimalist.com/). I really enjoy his method and take on things. Here's an overview of his method from his book the [The Minimalist Home](https://amzn.to/3f7lfv0):
    1. Set your goals.
    2. Include your family in the process. Let them know why you are doing it.
    3. Work room by room and start with the easiest.
    4. Have fun and notice the benefits.
    5. Revisit and revise your goals.
 
-       Here’s a bit of a deeper look into his method [here](https://lessismoreorganizers.com/blog/the-becker-method-of-a-minimalist-home).
-
- 3. [The Minimalists](https://www.theminimalists.com/). They have a blog titled “[Decluttering doesn’t work](https://www.theminimalists.com/decluttering/)” that is helpful. I               also read [their books](https://www.theminimalists.com/books/) that I really enjoyed! Here's a look into their take on decluttering:
+      Here’s a bit of a deeper look into his method [here](https://lessismoreorganizers.com/blog/the-becker-method-of-a-minimalist-home).
+3. [The Minimalists](https://www.theminimalists.com/). They have a blog titled “[Decluttering doesn’t work](https://www.theminimalists.com/decluttering/)” that is helpful. I               also read [their books](https://amzn.to/2ZHCFrP) that I really enjoyed! Here's a look into their take on decluttering:
 
 > The _what_—i.e., the _how to_—is easy. We all know, instinctually, _how to_ declutter. You can start small: focus on one room at a time, making progress each day as you work toward a simplified life. You can go big: rent a dumpster and throw out everything, moving on to [a more fulfilling life](http://theminimalists.com/lml). Or you can take the moderate approach: plunge into a [Packing Party](http://theminimalists.com/packing) and embrace the fun side of decluttering, enjoying the entire simplification process.
 >
