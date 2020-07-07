@@ -19,7 +19,7 @@ tags:
 comments: false
 
 ---
-![](/assets/img/20200513_150452_0000.png)
+![A picture of our messy main floor area near the dining room.](/assets/img/20200513_150452_0000.png "diningroommessy")
 
 Yup. It's a losing battle. If it doesn't leave the house, they. will. find. it. We've been spending this week doing a maintenance declutter on the home, top to bottom, since we're out of the baby year with our number four. We let a lot go when we have a baby around, of course. Today on the blog, I'm sharing with you three key steps to maintaining decluttering sanity with kids.
 
