@@ -4,7 +4,7 @@ title: How to Get Your Kids to do Chores Even if they Complain Every Time
 excerpt: " So what do you do if you're trying to, say, encourage your kids to tidy
   up their rooms? Today on the blog, I'm going to share with you how to get your kids
   to do chores even if they complain every time. "
-date: 2020-06-24 00:00:00 -0300
+date: 2020-06-24T00:00:00.000-03:00
 last_modified_at: 
 categories:
 - Routines
@@ -29,7 +29,7 @@ So what do you do if you're trying to, say, encourage your kids to tidy up their
 
 ## There's no magic answer. But consistency is close.
 
-There's something to be said for consistent routines and habits. It doesn't mean it'll always be easy, but it can as simple as being consistent. For instance, a part of our quiet time routine is for my kids to do a bedroom tidy task or few every single weekday afternoon. Since I put this into place, there has become less and less resistance to this part of their quiet time routine because it's becoming habit for them. We do it every day and they know what to expect. It does not mean they never complain or just straight up not do it, but it means - in general, it's built into their days. A habit, a routine. That becomes much easier for them to do because it's just a part of their day. My friend [Robin](https://www.instagram.com/mylittlerobins/) put together a book on habits called [_Habits for the Early Years_](https://mylittlerobins.com/habits-early-years-journal/) and [_The 7 Habits of Happy Kids_]() if you'd like to read more on the subject of cultivating habits in kids.
+There's something to be said for consistent routines and habits. It doesn't mean it'll always be easy, but it can as simple as being consistent. For instance, a part of our quiet time routine is for my kids to do a bedroom tidy task or few every single weekday afternoon. Since I put this into place, there has become less and less resistance to this part of their [quiet time routine](https://www.eastcoastkelly.com/routines/2020/05/27/how-to-have-quiet-time-with-kids.html) because it's becoming habit for them. We do it every day and they know what to expect. It does not mean they never complain or just straight up not do it, but it means - in general, it's built into their days. A habit, a routine. That becomes much easier for them to do because it's just a part of their day. My friend [Robin](https://www.instagram.com/mylittlerobins/) put together a book on habits called [_Habits for the Early Years_](https://mylittlerobins.com/habits-early-years-journal/) and [_The 7 Habits of Happy Kids_]() if you'd like to read more on the subject of cultivating habits in kids.
 
 ## Make it simple and start small
 
