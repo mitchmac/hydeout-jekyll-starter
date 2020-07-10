@@ -7,7 +7,7 @@ excerpt: 'Today on the blog I''m sharing about three indoor plants that are low 
 date: 2020-07-07 00:00:00 -0300
 last_modified_at: 
 categories:
-- Decluttering
+- plants
 tags:
 - minimal plants
 - low maintenance plants
