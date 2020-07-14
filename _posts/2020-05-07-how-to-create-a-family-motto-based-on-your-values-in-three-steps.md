@@ -22,7 +22,7 @@ comments: false
 ---
 ![How to create a family motto based on your values: three steps](/assets/img/20200507_100302_0000.png)
 
-When I went through the whole decluttering thing years back and started learning about minimalism, I learned a couple of things:
+When I went through the whole decluttering thing years back and started learning about [minimalism](https://amzn.to/2WdA0oD), I learned a couple of things:
 
 1. Minimalism is not about white walls.
 2. Minimalism is about removing the “noise” to find what matters most to you.
@@ -31,7 +31,7 @@ And on discovering this, I was able to much more clearly see and remove things f
 
 ## Step one. Start with this simple exercise: grab a pen and paper!
 
-Want to figure out quickly what your true values are? Take a moment and do this simple exercise: Look at what your family *does*, your actions. What things do you do on the daily? Write them down.
+Want to figure out quickly what your true values are? Take a moment and do this simple exercise: Look at what your family _does_, your actions. What things do you do on the daily? Write them down.
 
 Such as:
 
