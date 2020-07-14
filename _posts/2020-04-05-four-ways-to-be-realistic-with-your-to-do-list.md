@@ -28,11 +28,11 @@ Write your list in advance, ideally the night before. It allows for direction an
 
 ## Start right away when you have the most energy
 
-Start right away in the morning when you have the most energy. ⁣⁣⁣⁣⁣I remember reading in Mel Robbin's book [The Five Second Rule](www.melrobbins.com) about how she shares that mornings are when we have the most energy. The first few hours of the day! So, get your productive to do list juices going as soon as possible basically.
+Start right away in the morning when you have the most energy. ⁣⁣⁣⁣⁣I remember reading in Mel Robbin's book [The Five Second Rule](https://amzn.to/32iJ5jS) about how she shares that mornings are when we have the most energy. The first few hours of the day! So, get your productive to do list juices going as soon as possible basically.
 
 ## Do a brain dump
 
-Do a brain dump if you feel the need to have a massive to do list and then set aside to reflect and look on in the future. ⁣⁣I use to do lists for a lot of things and keep running lists of them for future reference. But, my daily to do list is written in my [bullet journal planner](www.bulletjournal.com).
+Do a brain dump if you feel the need to have a massive to do list and then set aside to reflect and look on in the future. ⁣⁣I use to do lists for a lot of things and keep running lists of them for future reference. But, my daily to do list is written in my [bullet journal planner](https://amzn.to/3gVIn0f).
 
 ![This is a picture of my bullet journal planner. It shows a spot for my meal plans, to do list, weekly tasks, and daily log where I write in my tasks.](/assets/img/bulletjournal.jpg "My Bullet Journal Planner")
 
