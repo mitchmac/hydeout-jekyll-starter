@@ -16,9 +16,7 @@ tags:
 comments: false
 
 ---
-![](/assets/img/20200417_130806_0000.png)
-
-Ugh. Procrastination. It's annoying, isn't it? At least for me sometimes! I was reading [The Five Second Rule]() by Mel Robbins and she shares about some of the research showing where procrastination comes from. Knowing where it comes from can become way more important than learning all of the time management strategies in the world. On the blog today I'm sharing about how to start breaking free of procrastination.
+Ugh. Procrastination. It's annoying, isn't it? At least for me sometimes! I was reading [The Five Second Rule](https://amzn.to/3iXKRwR) by Mel Robbins and she shares about some of the research showing where procrastination comes from. Knowing where it comes from can become way more important than learning all of the time management strategies in the world. On the blog today I'm sharing about how to start breaking free of procrastination.
 
 ## Where does procrastination come from?
 
