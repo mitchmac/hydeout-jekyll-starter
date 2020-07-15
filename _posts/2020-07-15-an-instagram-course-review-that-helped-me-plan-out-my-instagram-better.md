@@ -17,7 +17,7 @@ tags:
 comments: false
 
 ---
-![A picture of a phone with a chat box, follower button.](/assets/img/20200715_201645_0000_compress41.jpg "instagram")
+![A phone on a desk with emojis popping out of it.](/assets/img/20200715_205027_0000_compress49.jpg "Instagram1")
 
 I'm always looking for simpler ways to do life, whether it be reducing clutter or streamlining our days as a family. Sometimes I make things harder than it is. One area of my life that needed some streamlining was the way I showed up on social media. My planning and content essentially. I was well on the way, but a recent course I took helped consolidate and simplify everything for me even more. Today on my blog, I'm sharing with you my Instagram review on Erica Fraser's [How I Grew My Instagram to 33, 000](https://digital.mombreak.ca/howigrewmyinstagram/26mcq) course, that I went through a couple months ago.
 
@@ -27,8 +27,8 @@ _Here's an overview of what the course offers, quoted from her_ [_website_](www.
 >
 > # What to Expect
 >
-> Have you ever looked at what people are doing online and thought, _"I wish I could sit with them and they'd just tell me everything they've done to get to this point?"._  
->    
+> Have you ever looked at what people are doing online and thought, _"I wish I could sit with them and they'd just tell me everything they've done to get to this point?"._
+>
 > Well, that's what I'm doing in this mini-series!
 >
 > What's in this Mini-Series?
@@ -46,7 +46,7 @@ _Here's an overview of what the course offers, quoted from her_ [_website_](www.
 
 ## My review of her course
 
-Erica broke things down in quick, simple units of study. They were so clear and easy to apply. The pace of it was perfect for the busy mom, like me. I also could easily listen to it with headphones on if I needed as the way she taught was so clear and easy to follow. What I appreciate the most, over many other people putting together courses like this is that Erica is a digital marketing strategist with over ten years in her day job, so comes from that background of experience as well. I can trust her tips and suggestions. 
+Erica broke things down in quick, simple units of study. They were so clear and easy to apply. The pace of it was perfect for the busy mom, like me. I also could easily listen to it with headphones on if I needed as the way she taught was so clear and easy to follow. What I appreciate the most, over many other people putting together courses like this is that Erica is a digital marketing strategist with over ten years in her day job, so comes from that background of experience as well. I can trust her tips and suggestions.
 
 ## Who is this course for?
 
