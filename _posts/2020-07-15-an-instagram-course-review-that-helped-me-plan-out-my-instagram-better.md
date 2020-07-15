@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Instagram Course Review that Helped me Plan Out my Instagram Better
+title: 'Review: An Instagram Course that Helped me Plan Out my Instagram Better'
 excerpt: If you are on Instagram and are frustrated with it or just want to know more
   about how it all works broken down in a simple way as well as grow your account,
   this course is for you.
