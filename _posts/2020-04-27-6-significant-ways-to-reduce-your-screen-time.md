@@ -16,7 +16,7 @@ tags:
 comments: false
 
 ---
-The struggle is real. Do you struggle with your screen time intake some days? Many of us do, no shame, but there is a movement of folk trying to be more aware of how they are spending their time such as the [Hands Free Mama](https://www.handsfreemama.com/) movement. I was also reading on the website - [Thrive Global ](https://thriveglobal.com/)(helping the world’s leading enterprises unlock their people’s potential and create sustainable peak performance cultures...for work!). They are all about taking care of yourself to become more productive. I read their blog on reducing screen time and here are 5 significant ways to reduce your screen time that I'm recapping and adding my own twist too:
+The struggle is real. Do you struggle with your screen time intake some days? Many of us do, no shame, but there is a movement of folk trying to be more aware of how they are spending their time such as the [Hands Free Mama](https://amzn.to/2BduGKX) movement. I was also reading on the website - [Thrive Global ](https://thriveglobal.com/)(helping the world’s leading enterprises unlock their people’s potential and create sustainable peak performance cultures...for work!). They are all about taking care of yourself to become more productive. I read their blog on reducing screen time and here are 5 significant ways to reduce your screen time that I'm recapping and adding my own twist too:
 
 ## 1. Track your screen time
 
