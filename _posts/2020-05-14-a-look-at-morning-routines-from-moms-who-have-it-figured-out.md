@@ -63,7 +63,7 @@ Here's what is in my morning routine that I learned about through the book The M
 * Writing. I write a line of daily gratitude, a social media post, and a blog post now. Some days it's notes for a live video I'm doing. Or a special project. Just something I'm writing. It varies by day.
 * A quick stretch to get my body moving.
 
-You can read all about how I designed my morning routine by taking a read through [The Miracle Morning book](https://www.amazon.ca/dp/B00AKKS278/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)! It changed my morning routine game last year and I haven’t gone back. You can find me on Instagram at [eastcoastkelly](https://www.instagram.com/eastcoastkelly/).
+You can read all about how I designed my morning routine by taking a read through [The Miracle Morning book](https://amzn.to/398G8nw)! It changed my morning routine game last year and I haven’t gone back. You can find me on Instagram at [eastcoastkelly](https://www.instagram.com/eastcoastkelly/).
 
 ## Mandy Yang, a mom and KonMari Consultant:
 
@@ -73,7 +73,7 @@ You can find Mandy Yang on Instagram at [amongallofthis](https://www.instagram.c
 
 _Have a morning routine to share? Send me an email at_ [_eastcoastkellyb@gmail.com_](mailto:eastcoastkellyb@gmail.com) _and I’d be happy to add yours too._
 
-_Also - Last year, I finally started a morning routine for myself and it’s really helped my days out so much. I feel more peaceful throughout the rest of the day and I’m finding time for those things that matter most to me. It was after I read the book_ [_The Miracle Morning_](https://www.eastcoastkelly.com/morning%20routine/2020/04/21/how-to-have-a-morning-routine-with-children-around.html) _that everything clicked for me. I was so inspired. If you’d like a quick breakdown of what the Miracle Morning is and have an overview of how to create your own, I can send you a basic overview from what I read. Feel free to email me at eastcoastkellyb@gmail.com if you’d like that._
+_Also - Last year, I finally started a morning routine for myself and it’s really helped my days out so much. I feel more peaceful throughout the rest of the day and I’m finding time for those things that matter most to me. It was after I read the book_ [_The Miracle Morning_](https://amzn.to/398G8nw) _that everything clicked for me. I was so inspired. If you’d like a quick breakdown of what the Miracle Morning is and have an overview of how to create your own, I can send you a basic overview from what I read. Feel free to email me at eastcoastkellyb@gmail.com if you’d like that._
 
 Cheers,
 
