@@ -16,7 +16,7 @@ tags:
 comments: false
 
 ---
-A while back, I was helping my hubby come up with a simple exercise plan for himself to do before work that didn't require a lot of space or equipment. I remembered reading about how the Minimalists stripped back to a simple exercise routine in their book [Everything that Remains](https://www.amazon.ca/Everything-That-Remains-Memoir-Minimalists/dp/1938793188) after ditching going to the gym to save on money and time. And then I found a blog with more details on it [here](https://www.theminimalists.com/18min/). My husband was easily able to make his own too!
+A while back, I was helping my hubby come up with a simple exercise plan for himself to do before work that didn't require a lot of space or equipment. I remembered reading about how the Minimalists stripped back to a simple exercise routine in their book [Everything that Remains](https://amzn.to/2Cu5u3c) after ditching going to the gym to save on money and time. And then I found a blog with more details on it [here](https://www.theminimalists.com/18min/). My husband was easily able to make his own too!
 
 ## Using HIIT routines: what are they?
 
