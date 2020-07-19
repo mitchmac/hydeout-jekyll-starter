@@ -42,7 +42,7 @@ According to the blog, "An affirmation is a short, positive statement that, when
 
 **Step four**. Read them often.
 
-_I read my affirmations every morning during my_ [_miracle morning_](www.miraclemorning.com)_/morning time routine and they cover various areas of my life from business affirmations to personal growth to spiritual. They are quick to read and easy to add to a morning routine.. I once saw the idea from someone who taped them on her mirror to read every time she went to the bathroom. Love that!_
+_I read my affirmations every morning during my_ [_miracle morning_](https://amzn.to/398G8nw)_/morning time routine and they cover various areas of my life from business affirmations to personal growth to spiritual. They are quick to read and easy to add to a morning routine.. I once saw the idea from someone who taped them on her mirror to read every time she went to the bathroom. Love that!_
 
 In hard moments, I am able to speak truth to myself and it’s brought me comfort and refocus many times in my life, but of course is not substitute for when I needed more than just affirmations – like when I suffered from mild PPD/anxiety last year. But, worth a shot to add these to your day, right? Little things can become big things to help long term!
 
