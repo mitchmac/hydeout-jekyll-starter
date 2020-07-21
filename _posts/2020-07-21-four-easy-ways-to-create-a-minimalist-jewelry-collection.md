@@ -1,17 +1,26 @@
 ---
 layout: post
 title: Four Easy Ways to Create a Minimalist Jewelry Collection
-excerpt: ''
-date: 
+excerpt: If you are on a journey to declutter and minimize your life and things and
+  jewelry has been neglected, these suggestions may help you out. Today on the blog,
+  I'm sharing four easy ways to create a minimalist jewelry collection.
+date: 2020-07-21 00:00:00 -0300
 last_modified_at: 
-categories: []
-tags: []
+categories:
+- decluttering
+- minimalism
+tags:
+- minimal jewelry
+- decluttering jewelry
+- minimalism jewelry
+- capsule wardrobe
+- minimal wardrobe
 comments: false
 
 ---
 ![A picture of my hanging jewelry.](/assets/img/20200721_105738_0000_compress91.jpg "jewelry")
 
-I know there are some folk who do no to little jewelry, but I like to have more than that. It makes me happy. And that's the beauty of[ minimalism](https://amzn.to/2E5IXKI) (one of my fave books on this subject). It looks different for every single person. So if you are on a journey to declutter and minimize your life and things and jewelry has been neglected, these suggestions may help you out. Today on the blog, I'm sharing four easy ways to create a minimalist jewelry collection
+I know there are some folk who do no to little jewelry, but I like to have more than that. It makes me happy. And that's the beauty of[ minimalism](https://amzn.to/2E5IXKI) (one of my fave books on this subject). It looks different for every single person. So if you are on a journey to declutter and minimize your life and things and jewelry has been neglected, these suggestions may help you out. Today on the blog, I'm sharing four easy ways to create a minimalist jewelry collection.
 
 1. Pull from your clothing palette for inspiration on colours to keep. I had a ton of jewelry in so many colours and was able to minimize some by just looking at five main colours I wore in my [minimal type wardrobe/capsule wardrobe](https://amzn.to/32HdYiq).
 2. Declutter all poor quality jewelry. It goes without saying that rusted pieces or pieces that destroy your earlobs needs to go. Yesterday. I loved [these earrings](https://amzn.to/3jjXPoO), but they were low quality. I should have known better, but have learned better going forward!
