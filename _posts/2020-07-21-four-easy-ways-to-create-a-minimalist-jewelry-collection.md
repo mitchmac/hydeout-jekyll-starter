@@ -7,8 +7,8 @@ excerpt: If you are on a journey to declutter and minimize your life and things 
 date: 2020-07-21 00:00:00 -0300
 last_modified_at: 
 categories:
-- decluttering
-- minimalism
+- Decluttering
+- Minimalism
 tags:
 - minimal jewelry
 - decluttering jewelry
