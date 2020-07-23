@@ -30,8 +30,8 @@ For my family, the biggest thing for when I set a homeschool routine is flexibil
 
 # Our “ideal” homeschool routine
 
-Breakfast is at around 8ish and we start our school then during our morning time. This time of the day is pretty quiet for us usually. We read a [devotional](https://amzn.to/3jEXzRE) together, read and recite poetry, and sing a couple songs. We do a family readaloud here too and do one group activity that I loop through (1-2 a day) such as a simple drawing lesson or looking at beautiful art together.   
-   
+Breakfast is at around 8ish and we start our school then during our morning time. This time of the day is pretty quiet for us usually. We read a [devotional](https://amzn.to/3jEXzRE) together, read and recite poetry, and sing a couple songs. We do a family readaloud here too and do one group activity that I loop through (1-2 a day) such as a simple drawing lesson or looking at beautiful art together.
+
 After this, we move into independent work time. My four year old might read a book with me during this time too. My boys have a catchall [composition notebook](https://amzn.to/30yZqPe) where they have their weekly assignments in and pick which ones they want to do each day (I'll give them x number of choices): Math, french, copywork, exercise, piano, timeline, typing. Then they have a reading to do or two after that. Each activity takes about 10-15 minutes. We are usually done well before 11. Then we have play until lunch. After lunch, we have a period of quiet time which you can read about [here](https://www.eastcoastkelly.com/routines/2020/05/27/how-to-have-quiet-time-with-kids.html).
 
 # Our current summer homeschool routine
@@ -40,8 +40,8 @@ Our summer homeschooling routine is always slower. And simpler. Because our summ
 
 # How I assess day to day what is needed for my kids and myself
 
-We take breaks as needed throughout the year, but my family does better with having some sort of routine consistently all year, we just may go slower or faster depending on what is needed.  
-   
+We take breaks as needed throughout the year, but my family does better with having some sort of routine consistently all year, we just may go slower or faster depending on what is needed.
+
 I pay attention to our energy levels. Do we need a down day? Do we need rest? Extra time for play? Is someone sick or not feeling well? Is it really sunny? Do we have appointments? Teething toddlers? So much can affect our routine, so I go day by day based on these needs as well. And keep things flexible in that way. Our routines are more of a guide in that way vs. a rigid schedule.
 
 ### Resources I've found helpful
@@ -50,10 +50,11 @@ I pay attention to our energy levels. Do we need a down day? Do we need rest? Ex
 * [Ambleside online](https://www.amblesideonline.org/) (the free curriculum we use)
 * Amazon shop [US shop](http://www.amazon.com/shop/eastcoastkelly)  -  [Canadian shop](http://www.amazon.com/shop/eastcoastkelly) (under kids’ school and planning)
 * [Pam Barnhill’s course on autopiloting your homeschool year](https://pambarnhill.com/autopilot/ref/258/) (I am affiliate of her course, so this would mean I’d make a small cut if you liked the look of this course too! She’s a wealth of knowledge in this area).
-* The book [Teaching From Rest](https://amzn.to/2WINMjG) that I recommend to everyone starting out. It's so encouraging and helpful.   
-   
+* The book [Teaching From Rest](https://amzn.to/2WINMjG) that I recommend to everyone starting out. It's so encouraging and helpful.
 
   I'm always here to chat too. Send me an email at [eastcoastkellyb@gmail.com](mailto:eastcoastkellyb@gmail.com) if you have any homeschooling routine questions or find me on [Instagram](www.instagram.com/eastcoastkelly).
+
+PS I guest blogged over on my friend Jessica's blog titled "[All Your Homeschool Questions Answered By Guest Blogger Kelly Briggs](https://mamabearwooten.com/all-your-homeschool-questions-answered-by-guest-blogger-kelly-briggs/)" if you'd like to read that too! 
 
 Cheers,
 
