@@ -9,6 +9,7 @@ date: 2020-06-16T00:00:00.000-03:00
 last_modified_at: 
 categories:
 - Decluttering
+- Minimalism
 tags:
 - decluttering your wardrobe
 - wardrobe declutter
