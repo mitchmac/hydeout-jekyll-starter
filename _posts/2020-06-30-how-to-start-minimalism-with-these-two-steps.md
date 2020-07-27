@@ -2,10 +2,11 @@
 layout: post
 title: How to Start Minimalism with these Two Steps
 excerpt: Today on the blog, I'm sharing how to start minimalism with two simple steps.
-date: 2020-06-30 00:00:00 -0300
+date: 2020-06-30T00:00:00.000-03:00
 last_modified_at: 
 categories:
 - Decluttering
+- Minimalism
 tags:
 - decluttering
 - decluttering as a family
