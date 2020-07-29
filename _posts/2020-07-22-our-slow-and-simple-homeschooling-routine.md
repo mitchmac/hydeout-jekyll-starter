@@ -49,12 +49,12 @@ I pay attention to our energy levels. Do we need a down day? Do we need rest? Ex
 * [Minimalist homeschooling Facebook group](https://www.facebook.com/groups/minimalisthomeschool) - this group helped me find our current homeschooling curriculum that we've been loving. It's saved a lot of brain space for me too to have a lot laid out for me.
 * [Ambleside online](https://www.amblesideonline.org/) (the free curriculum we use)
 * Amazon shop [US shop](http://www.amazon.com/shop/eastcoastkelly)  -  [Canadian shop](http://www.amazon.com/shop/eastcoastkelly) (under kids’ school and planning)
-* [Pam Barnhill’s course on autopiloting your homeschool year](https://pambarnhill.com/autopilot/ref/258/) (I am affiliate of her course, so this would mean I’d make a small cut if you liked the look of this course too! She’s a wealth of knowledge in this area).
+* [Pam Barnhill’s course on planning your homeschool year ](https://pambarnhill.com/plan-your-year-2020/ref/258/)(I am affiliate of her course, so this would mean I’d make a small cut if you liked the look of this course too! She’s a wealth of knowledge in this area).
 * The book [Teaching From Rest](https://amzn.to/2WINMjG) that I recommend to everyone starting out. It's so encouraging and helpful.
 
   I'm always here to chat too. Send me an email at [eastcoastkellyb@gmail.com](mailto:eastcoastkellyb@gmail.com) if you have any homeschooling routine questions or find me on [Instagram](www.instagram.com/eastcoastkelly).
 
-PS I guest blogged over on my friend Jessica's blog titled "[All Your Homeschool Questions Answered By Guest Blogger Kelly Briggs](https://mamabearwooten.com/all-your-homeschool-questions-answered-by-guest-blogger-kelly-briggs/)" if you'd like to read that too! 
+PS I guest blogged over on my friend Jessica's blog titled "[All Your Homeschool Questions Answered By Guest Blogger Kelly Briggs](https://mamabearwooten.com/all-your-homeschool-questions-answered-by-guest-blogger-kelly-briggs/)" if you'd like to read that too!
 
 Cheers,
 
