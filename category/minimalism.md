@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Minimalism
-category: minimalism
+category: Minimalism
 
 ---
