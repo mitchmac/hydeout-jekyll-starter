@@ -103,7 +103,7 @@ fields:
       required: true
     name: sidebar-bg-color
     label: Sidebar Background Color
-    default: "#000000"
+    default: "#FFFFFF"
   - type: color
     name: sidebar-fg-color
     config:
@@ -117,13 +117,15 @@ fields:
       color_format: Hex
       required: true
     label: Link Color
-    default: "#FFFFFF"
+    default: "#000000"
 - type: boolean
   name: sidebar-sticky
   label: Bottom Sidebar
   hidden: false
   default: true
   description: If active, the sidebar will show the text in it sitting on the bottom.
+  showOnly:
+    field: sidebar_home_link
 - type: boolean
   name: layout-reverse
   label: Reverse Layout
