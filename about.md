@@ -3,7 +3,7 @@ layout: page
 title: About
 sidebar_link: true
 date: 
-sidebar_sort_order: 6
+sidebar_sort_order: 10
 
 ---
 I help busy moms create flexible routines with simple living tips to save time and sanity.
