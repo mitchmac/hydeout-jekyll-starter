@@ -1,3 +1,6 @@
+---
+
+---
 # Hyde / Hydeout
 
 To make changes to these theme, shadow files from [Hydeout](https://github.com/fongandrew/hydeout/).
@@ -22,7 +25,7 @@ the CSS degrades into a single column layout.
 
 To give you a running start this installation puts a fully configured [starter repo](https://github.com/forestryio/hydeout-jekyll-starter) into your Git account and sets it up in a content manager / CMS.
 
-_[Forestry](https://forestry.io) Starter-Kit:_
+[_Forestry_](https://forestry.io) _Starter-Kit:_
 
 [![Import this project into Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=forestryio/hydeout-jekyll-starter&provider=github&engine=jekyll)
 
@@ -46,7 +49,7 @@ The easiest option in our opinion is Netlify. It's quick to setup and relatively
 
 ![](https://forestry.io/img/theme/netlify-step-4.gif)
 
-6. Lastly copy your URL (e.g. https://something-something-123456.netlify.com/) and add it as your URL in your [`Site Configuration`](#/pages/config-toml).
+1. Lastly copy your URL (e.g. https://something-something-123456.netlify.com/) and add it as your URL in your [`Site Configuration`](#/pages/config-toml).
 
 The more powerful option is deployment to AWS and makes sense if you have experience with S3 and Cloudformation. You can find detailed documentation and a deployment template [here](https://forestry.io/docs/hosting/s3-cloudfront-stack/).
 
@@ -62,7 +65,7 @@ See the [variables](https://github.com/fongandrew/hydeout/blob/master/_sass/hyde
 
 #### Replace Favicon
 
-You can replace the favicon (the small icon that shows up in the tab of your page in a browser) by going to the [Media Library](#/media/) and removing `favicon.png` and `favicon.ico` and replacing them with your own version. 
+You can replace the favicon (the small icon that shows up in the tab of your page in a browser) by going to the [Media Library](#/media/) and removing `favicon.png` and `favicon.ico` and replacing them with your own version.
 
 #### Reverse layout
 
@@ -90,7 +93,7 @@ Your site is completely editable in Forestry. The Hydeout theme is a simple resp
 
 Pages and Posts are separated into two different categories.
 
-To create a new page or post click on *Create New* and select *Post* (or *Page* depending what section you are in). Enter a title and click *Create* to proceed to the editor. 
+To create a new page or post click on _Create New_ and select _Post_ (or _Page_ depending what section you are in). Enter a title and click _Create_ to proceed to the editor.
 
 ![](https://forestry.io/img/theme/create-new.png)
 
@@ -100,7 +103,7 @@ On the left side you'll find general settings (e.g. title, subtitle, date etc.) 
 
 #### Add and Edit the Sidebar
 
-To add new links and edit existing ones navigate to [Pages](#/menus/main), select a page and activate `Sidebar Link`. 
+To add new links and edit existing ones navigate to [Pages](#/menus/main), select a page and activate `Sidebar Link`.
 
 You are also able to reorder links by setting the `Sidebar Sort Order` value with a position number (1 is the highest position). The position is set in relation to the other pages (e.g. 1 is above 10 is above 35).
 
@@ -110,7 +113,7 @@ Categories are the only pages that automatically show in your Sidebar. To add a 
 
 #### Special Pages (Tags & Search)
 
-In the [Pages](#/sections/pages/) section you can add a Tags page and a Search page. These will show up as icons in the bottom of your Sidebar by default. If you have no need for them you can simply remove these and the icons will be removed from your Sidebar as well.
+In the [Pages](#/sections/pages/) section you can add a Tags page and a Search page. These will show up as icons in the bottom of your sidebar by default. If you have no need for them you can simply remove these and the icons will be removed from your Sidebar as well.
 
 If you have accidentally removed them you can always add them back in by creating a new page in [Pages](#/sections/pages/) and selecting the appropriate Template.
 
@@ -124,8 +127,8 @@ All new posts/pages start out as draft. To publish a post/page you'll have to tu
 
 ![](https://forestry.io/img/theme/publish.png)
 
-*More Information on Editing with Forestry [here](https://forestry.io/docs/editing/markdown-editor/)*  
-*The full documentation for Developers using Forestry can be found [here](https://forestry.io/docs/)*
+_More Information on Editing with Forestry_ [_here_](https://forestry.io/docs/editing/markdown-editor/)  
+_The full documentation for Developers using Forestry can be found_ [_here_](https://forestry.io/docs/)
 
 ***
 
