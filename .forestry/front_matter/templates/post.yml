@@ -25,7 +25,7 @@ fields:
   label: Date
   type: datetime
   hidden: false
-  default: ''
+  default: now
   description: Add publishing date here
   config:
     date_format: MM/DD/YYYY
@@ -34,6 +34,7 @@ fields:
   name: last_modified_at
   label: Last Modified At
   description: Add last date you made a change here
+  default: now
 - type: tag_list
   label: Categories
   name: categories
