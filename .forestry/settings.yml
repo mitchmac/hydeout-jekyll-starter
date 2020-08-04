@@ -4,13 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: contact
+- type: document
+  path: contact.md
   label: Contact
-  create: all
   match: "**/*"
-  templates:
-  - page
 - type: jekyll-posts
   label: Posts
   create: all

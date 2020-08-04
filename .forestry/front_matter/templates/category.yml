@@ -23,11 +23,7 @@ fields:
     required: false
 pages:
 - category/cleaning-tidying.md
-- category/cleaning-tidying.md
-- category/decluttering.md
 - category/decluttering.md
 - category/minimalism.md
 - category/planning.md
-- category/planning.md
-- category/routines.md
 - category/routines.md

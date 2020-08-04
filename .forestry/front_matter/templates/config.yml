@@ -175,5 +175,3 @@ fields:
   config:
     required: false
   hidden: true
-pages:
-- _config.yml
