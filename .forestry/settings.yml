@@ -7,7 +7,6 @@ sections:
 - type: document
   path: contact.md
   label: Contact
-  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
