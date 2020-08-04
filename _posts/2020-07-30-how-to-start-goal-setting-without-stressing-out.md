@@ -1,10 +1,10 @@
 ---
 layout: post
 title: How to Start Goal Setting Without Stressing Out
-excerpt: You can goal set and have a slow, sane paced life. And I found simple goal
-  planning ways that are more aligned with my sane paced way of life, which I'll be
-  breaking down for you down below. Today on the blog I'm sharing how to start goal
-  setting without stressing out.
+excerpt: |-
+  You can goal set and have a slow, sane paced life. And I found simple goal planning ways that are more aligned with my sane paced way of life, which I'll be breaking down for you down below. Today on the blog I'm sharing how to start goal setting without stressing out.
+
+  ![](/assets/img/20200730_095345_0000_compress36.jpg)
 date: 2020-07-30T00:00:00.000-03:00
 last_modified_at: 
 categories:
