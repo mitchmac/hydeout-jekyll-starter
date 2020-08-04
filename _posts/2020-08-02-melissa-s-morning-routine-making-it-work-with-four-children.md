@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Melissa's Morning Routine - Making it Work with Four Children
+title: 'Melissa''s Morning Routine: Making it Work with Four Children'
 excerpt: 'I asked my friend Melissa about her morning routine to share with all of
   you because I know she makes time for herself most mornings with and/or without
   kids. I absolutely love how she incorporates #3 into her routine. I''m so inspired!
