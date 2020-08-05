@@ -49,6 +49,7 @@ fields:
   description: Active if you want to allow comments (this option is only available
     if you've set Disqus up in your Site Configuration)
 pages:
+- _posts/10-ways-to-simplify-your-to-do-list.md
 - _posts/2020-04-05-four-ways-to-be-realistic-with-your-to-do-list.md
 - _posts/2020-04-10-the-ultimate-stress-free-planning-method-that-anyone-can-use.md
 - _posts/2020-04-13-how-to-survive-the-early-years-of-parenting.md
@@ -103,4 +104,3 @@ pages:
 - _posts/2020-07-29-homeschool-plans-for-2020-2021-keeping-it-simple-slow.md
 - _posts/2020-07-30-how-to-start-goal-setting-without-stressing-out.md
 - _posts/2020-08-02-melissa-s-morning-routine-making-it-work-with-four-children.md
-- _posts/2020-08-05-10-ways-to-simplify-your-to-do-list.md
