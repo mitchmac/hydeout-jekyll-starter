@@ -49,7 +49,6 @@ fields:
   description: Active if you want to allow comments (this option is only available
     if you've set Disqus up in your Site Configuration)
 pages:
-- _posts/10-ways-to-simplify-your-to-do-list.md
 - _posts/2020-04-05-four-ways-to-be-realistic-with-your-to-do-list.md
 - _posts/2020-04-10-the-ultimate-stress-free-planning-method-that-anyone-can-use.md
 - _posts/2020-04-13-how-to-survive-the-early-years-of-parenting.md

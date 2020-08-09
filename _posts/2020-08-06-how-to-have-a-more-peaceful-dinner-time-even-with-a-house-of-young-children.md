@@ -1,12 +1,12 @@
 ---
 layout: post
 date: 2020-08-06
-last_modified_at: 2020-08-06 10:07:57 -0300
+last_modified_at: 2020-08-06T10:07:57.000-03:00
 title: 'How to Have a More Peaceful Dinner Time Even with a House of Young Children '
-excerpt: 'Dinner time was becoming a place of chaos here with siblings not getting
-  along and meals not being eaten because of it. For a long time. Today on the blog,
-  I''m sharing with you how to have a more peaceful dinner time even with a house
-  of young children. '
+excerpt: |-
+  ![](/assets/img/20200806_084001_0000_compress86.jpg)
+
+  Dinner time was becoming a place of chaos here with siblings not getting along and meals not being eaten because of it. For a long time. Today on the blog, I'm sharing with you how to have a more peaceful dinner time even with a house of young children.
 categories:
 - Routines
 tags:
