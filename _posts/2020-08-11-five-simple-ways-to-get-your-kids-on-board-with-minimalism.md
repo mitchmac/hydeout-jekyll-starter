@@ -3,11 +3,11 @@ layout: post
 date: 2020-08-11
 last_modified_at: 2020-08-11 10:25:24 -0300
 title: Five Simple Ways to Get Your Kids on Board with Minimalism
-excerpt: "Getting my kids on board with doing less has been easy for us because that's
+excerpt: Getting my kids on board with doing less has been easy for us because that's
   how we naturally are as a family (homebodies for life), but having my kids learn
   about the value of having less stuff is going to take longer term. It’ll be one
   little lesson at a time. Today on the blog, I'm sharing five simple ways to get
-  your kids on board with minimalism. \n\n![](/assets/img/20200810_204657_0000_compress74.jpg)"
+  your kids on board with minimalism.
 categories:
 - Minimalism
 - Decluttering
