@@ -29,7 +29,6 @@ google_analytics: ''
 disqus:
   shortname: ''
 theme: jekyll-theme-hydeout
-markdown: kramdown
 highlighter: rouge
 facebook: https://www.facebook.com/kelly.briggs
 twitter: ''
