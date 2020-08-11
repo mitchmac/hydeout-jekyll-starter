@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 gem "jekyll-theme-hydeout", "~> 4.1"
-gem "jekyll", "~> 3.8"
+gem "jekyll", "~> 4.1"
 
 group :jekyll_plugins do
 	gem "jekyll-gist"
